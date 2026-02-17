@@ -1,0 +1,26 @@
+{
+  "base_model": "paraphrase-multilingual-mpnet-base-v2",
+  "intents": [
+    "address",
+    "allergen_statement",
+    "contact_information",
+    "ingredients",
+    "marketing_claims",
+    "net_quantity",
+    "nutrient_claims",
+    "product_name",
+    "storage_instructions",
+    "usage_instructions",
+    "warning_statement",
+    "website"
+  ],
+  "training": {
+    "gold_epochs": 3,
+    "silver_epochs": 1,
+    "triplet_epochs": 1,
+    "losses": [
+      "MultipleNegativesRankingLoss",
+      "TripletLoss (ANN hard negatives)"
+    ]
+  }
+}

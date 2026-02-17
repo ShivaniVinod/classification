@@ -1,0 +1,16 @@
+# virtual envs
+myenv/
+.venv/
+__pycache__/
+
+# large data
+Datasets/*.parquet
+Datasets/*.json
+food_intent_embedder_v2_1/encoder/*
+food_intent_embedder_v2_1/ann_index/*
+food_intent_embedder_v2_1/*.pt
+food_intent_embedder_v2_1/*.zip
+
+# outputs
+output/
+outputs/
