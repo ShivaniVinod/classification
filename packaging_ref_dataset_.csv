@@ -1,0 +1,704 @@
+text,true_label
+contact@nestle.com,Email
+info@unilever.co.uk,Email
+customercare@kraftfoods.com,Email
+support@pepsico.com,Email
+hello@mondelez.com,Email
+feedback_123@company.com,Email
+sales.team@foodcorp.in,Email
+quality.assurance@brand.com,Email
+consumer.care@dairyindia.co.in,Email
+orders-online@snacks.net,Email
+help@chocolatebrand.org,Email
+service@beverages.com,Email
+info123@healthfoods.in,Email
+www.kelloggs.com,URL
+https://www.nestle.com/products,URL
+www.coca-cola.com,URL
+http://brand.com,URL
+www.unilever.com/contact,URL
+visit us at www.pepsico.com,URL
+check www.kraftheinz.com for details,URL
+more info at https://brand.com/nutrition,URL
+www.amul.coop,URL
+https://britannia.co.in,URL
+www.itcportal.com,URL
+http://parleproducts.com,URL
+www.haldiram.com/products,URL
+visit www.dabur.com,URL
+FSSAI No: 12345678901234,License Number
+License No: 987654321,License Number
+LIC No: 123456789,License Number
+FSSAI Lic No: 11223344556677,License Number
+License Number: 555666777,License Number
+FSSAI License: 10012012001002,License Number
+Lic No: 789456123,License Number
+FSSAI No: 22334455667788,License Number
+License No: 147258369,License Number
+FSSAI Lic: 33445566778899,License Number
+LIC Number: 667788990,License Number
+License No: 223344556,License Number
+FSSAI Number: 11122233344455,License Number
+Lic No: 112233445,License Number
+FSSAI License No: 22334455667788,License Number
+License Number: 456789012,License Number
+FSSAI Lic No: 10015022003004,License Number
+Ingredients: Wheat flour sugar salt palm oil water,Ingredients
+INGREDIENTS: Sugar corn syrup gelatin natural flavors,Ingredients
+Ingredients: Milk powder cocoa butter soy lecithin,Ingredients
+Ingredients: Rice corn wheat vitamin E iron,Ingredients
+INGREDIENTS: Water tomato paste salt spices,Ingredients
+Ingredients: Peanuts vegetable oil salt,Ingredients
+Ingredients: Oats honey brown sugar cinnamon,Ingredients
+Ingredients: Almonds cashews honey salt,Ingredients
+Ingredients: Chicken salt pepper garlic,Ingredients
+Ingredients: Coconut oil sugar vanilla,Ingredients
+Ingredients: Maida besan oil spices,Ingredients
+Ingredients: Atta sugar milk ghee,Ingredients
+Ingredients: Carbonated water sugar citric acid,Ingredients
+Ingredients: Full cream milk culture salt,Ingredients
+Ingredients: Refined wheat flour yeast sugar salt,Ingredients
+Ingredients: Potatoes vegetable oil salt,Ingredients
+Ingredients: Sugar glucose syrup gelatin colors,Ingredients
+Ingredients: Whole grain oats wheat rice corn,Ingredients
+Ingredients: Coriander cumin turmeric chili,Ingredients
+Ingredients: Groundnuts oil salt,Ingredients
+Ingredients: Chickpea flour spices,Ingredients
+Ingredients: Lentils onion tomato,Ingredients
+Ingredients: Tea leaves natural flavor,Ingredients
+Ingredients: Coffee beans,Ingredients
+Ingredients: Aspartame acesulfame potassium,Ingredients
+Wheat flour sugar eggs butter vanilla,Ingredients
+Sugar water citric acid natural flavoring,Ingredients
+Milk cocoa butter soy lecithin,Ingredients
+Rice wheat corn oats barley,Ingredients
+Water flour salt yeast oil,Ingredients
+Tomatoes onions garlic olive oil basil,Ingredients
+Peanuts salt,Ingredients
+Almonds cashews walnuts pecans,Ingredients
+Rice dal ghee turmeric,Ingredients
+Potato onion tomato chili,Ingredients
+Flour eggs sugar butter,Ingredients
+Water sugar color caffeine,Ingredients
+Milk cream salt,Ingredients
+Wheat gluten water oil,Ingredients
+Rice flour salt spices,Ingredients
+Beans rice vegetables,Ingredients
+Pasta sauce cheese,Ingredients
+Noodles vegetables seasoning,Ingredients
+Oats honey almonds,Ingredients
+Turmeric chili salt,Ingredients
+Cream milk chocolate,Ingredients
+Tea leaves,Ingredients
+Roasted coffee,Ingredients
+Contains milk soy wheat,Allergen Warning
+Contains peanuts and tree nuts,Allergen Warning
+May contain traces of peanuts,Allergen Warning
+May contain milk eggs soy,Allergen Warning
+Allergens: Contains gluten milk,Allergen Warning
+Allergy advice: Contains fish,Allergen Warning
+Contains wheat eggs dairy,Allergen Warning
+May contain traces of nuts and sesame,Allergen Warning
+Allergen: Soy,Allergen Warning
+Contains shellfish,Allergen Warning
+Contains mustard and celery,Allergen Warning
+May contain sulphites,Allergen Warning
+Allergen information: Contains lupin,Allergen Warning
+Contains molluscs,Allergen Warning
+Produced in facility that handles peanuts,Allergen Warning
+Made in a factory that processes tree nuts,Allergen Warning
+Packaged on equipment that also processes milk,Allergen Warning
+Contains butter,Allergen Warning
+Contains whey,Allergen Warning
+Contains casein,Allergen Warning
+Contains eggs and dairy,Allergen Warning
+May contain soy and wheat,Allergen Warning
+Allergen: Peanuts,Allergen Warning
+Contains sesame,Allergen Warning
+Made in facility with tree nuts,Allergen Warning
+Contains gluten and eggs,Allergen Warning
+May have milk traces,Allergen Warning
+Contains milk,Allergen Warning
+Contains soy lecithin,Allergen Warning
+May contain fish,Allergen Warning
+Allergen: Tree nuts,Allergen Warning
+Contains crustaceans,Allergen Warning
+May contain celery and mustard,Allergen Warning
+Produced in nut facility,Allergen Warning
+Contains gelatin,Allergen Warning
+Contains wheat oats,Allergen Warning
+Store in a cool dry place,Storage Instructions
+Keep refrigerated,Storage Instructions
+Refrigerate after opening,Storage Instructions
+Store below 25 degrees celsius,Storage Instructions
+Keep frozen,Storage Instructions
+Store in refrigerator,Storage Instructions
+Freeze until ready to use,Storage Instructions
+Keep in cool place,Storage Instructions
+Store away from direct sunlight,Storage Instructions
+Refrigerate immediately after purchase,Storage Instructions
+Keep chilled at all times,Storage Instructions
+Store in airtight container,Storage Instructions
+Keep sealed when not in use,Storage Instructions
+Once opened keep refrigerated,Storage Instructions
+Store between 2 to 8 degrees,Storage Instructions
+Store in cool dry area,Storage Instructions
+Keep away from moisture,Storage Instructions
+Refrigerate once opened,Storage Instructions
+Store at room temperature,Storage Instructions
+Keep dry,Storage Instructions
+Best kept cold,Storage Instructions
+Keep away from heat,Storage Instructions
+Maintain at low temperature,Storage Instructions
+Do not expose to sunlight,Storage Instructions
+Cool and dry conditions required,Storage Instructions
+Store away from moisture,Storage Instructions
+Keep in dark place,Storage Instructions
+Refrigerate upon receipt,Storage Instructions
+Best stored chilled,Storage Instructions
+Avoid exposure to heat,Storage Instructions
+Maintain freshness by refrigerating,Storage Instructions
+Keep frozen at minus 18 celsius,Storage Instructions
+Do not refreeze once thawed,Storage Instructions
+Store in cool dry place away from strong odors,Storage Instructions
+Store properly,Storage Instructions
+Directions: Heat in microwave for 2 minutes,Usage Instructions
+How to use: Add hot water and stir,Usage Instructions
+Preparation: Cook at 180 degrees for 20 minutes,Usage Instructions
+Usage: Apply evenly to surface,Usage Instructions
+Directions: Shake well before serving,Usage Instructions
+How to prepare: Boil for 10 minutes,Usage Instructions
+Cooking instructions: Bake at 200 degrees,Usage Instructions
+Directions for use: Mix with water,Usage Instructions
+Preparation instructions: Thaw before cooking,Usage Instructions
+Usage directions: Apply thin layer,Usage Instructions
+Directions: Serve chilled,Usage Instructions
+How to cook: Fry for 5 minutes,Usage Instructions
+Preparation: Steam for 15 minutes,Usage Instructions
+Directions: Defrost and cook,Usage Instructions
+How to serve: Garnish and enjoy,Usage Instructions
+Preparation: Simmer for 15 minutes,Usage Instructions
+Heat for 2 minutes in microwave,Usage Instructions
+Add boiling water and stir,Usage Instructions
+Cook at 180 degrees for 25 minutes,Usage Instructions
+Shake well before use,Usage Instructions
+Microwave on high for 90 seconds,Usage Instructions
+Bake until golden brown,Usage Instructions
+Warm in oven for 5 minutes,Usage Instructions
+Mix thoroughly before serving,Usage Instructions
+Stir continuously while cooking,Usage Instructions
+Defrost overnight in refrigerator,Usage Instructions
+Heat before consumption,Usage Instructions
+Fry till golden,Usage Instructions
+Grill for best results,Usage Instructions
+Serve immediately after preparation,Usage Instructions
+Best enjoyed warm,Usage Instructions
+Add milk and serve,Usage Instructions
+Use as per taste,Usage Instructions
+Best brewed hot,Usage Instructions
+Add hot water and stir,Usage Instructions
+Serve cold,Usage Instructions
+Shake well and serve,Usage Instructions
+Use within 3 days of opening,Usage Instructions
+Toast before serving,Usage Instructions
+Directions: Open and enjoy,Usage Instructions
+Cook until done,Usage Instructions
+Directions: Bake at 180C for 20 mins,Usage Instructions
+Manufactured by Nestle India Ltd Mumbai,Address
+Marketed by Hindustan Unilever Limited Delhi,Address
+Packed by PepsiCo India Holdings Gurgaon,Address
+Distributed by Coca Cola India Bangalore,Address
+Manufactured by Mondelez International Pune,Address
+Mfg by Britannia Industries Chennai,Address
+Marketed by ITC Limited Kolkata,Address
+Packed by Parle Products Mumbai Maharashtra,Address
+Manufactured by Amul Dairy Anand Gujarat,Address
+Distributed by Dabur India Ltd New Delhi,Address
+Manufactured by Nestle USA California,Address
+Produced by Kraft Foods Illinois,Address
+Packed by General Mills Minnesota,Address
+Marketed by Mars Inc Virginia,Address
+Manufactured by Ferrero New Jersey,Address
+Packed by Bikaji Foods Bikaner Rajasthan,Address
+Manufactured by Dabur India Pvt Ltd Delhi,Address
+Marketed by Marico Limited Mumbai,Address
+Packed by Godrej Consumer Products Pune,Address
+Mfg by ITC Ltd Bangalore Karnataka,Address
+Distributed by Reliance Retail Mumbai,Address
+Mfg by Varun Beverages Noida UP,Address
+Manufactured by Kwality Dairy Delhi,Address
+Packed by Modern Foods Mumbai Maharashtra,Address
+Manufactured by Balaji Wafers Rajkot Gujarat,Address
+Packed by Perfetti Van Melle Gurgaon Haryana,Address
+Mfg by Bagrrys India Dehradun Uttarakhand,Address
+Packed by MDH Spices Delhi,Address
+Manufactured by Bikano Foods Bikaner,Address
+Marketed by Future Consumer Ltd Mumbai,Address
+Packed by Priya Foods Hyderabad,Address
+Distributed by Spencer's Retail Kolkata,Address
+Mfg by McCain Foods Mehsana Gujarat,Address
+Produced by Venky's Pune Maharashtra,Address
+Manufactured by Vadilal Industries Ahmedabad,Address
+Packed by Tata Consumer Products Bangalore,Address
+Manufactured by CCL Products Hyderabad,Address
+Manufactured by Zydus Wellness Ahmedabad,Address
+Net Weight: 500g,Net Quantity
+Net Wt: 250ml,Net Quantity
+Contents: 1 kg,Net Quantity
+Net Quantity: 750g,Net Quantity
+Net Content: 2 liters,Net Quantity
+Net Wt 340g,Net Quantity
+Weight: 450 grams,Net Quantity
+Volume: 500 milliliters,Net Quantity
+Net: 1.5L,Net Quantity
+Contents: 200ml,Net Quantity
+Net Weight 600g,Net Quantity
+Wt: 800g,Net Quantity
+Net Quantity 1kg,Net Quantity
+Contents 750ml,Net Quantity
+Net 2L,Net Quantity
+Net Weight: 1kg,Net Quantity
+Contents: 500ml,Net Quantity
+Net Wt 250g,Net Quantity
+Net Quantity: 600ml,Net Quantity
+Net Wt: 150g,Net Quantity
+Contents: 250ml,Net Quantity
+Weight: 2kg,Net Quantity
+Net: 900g,Net Quantity
+Volume: 1 liter,Net Quantity
+Net Content: 3L,Net Quantity
+Net: 750g,Net Quantity
+Wt 1.5kg,Net Quantity
+Net: 50g,Net Quantity
+Net Wt 100g,Net Quantity
+Net Weight: 100g,Net Quantity
+Net Weight: 400g,Net Quantity
+Net Quantity: 1 liter,Net Quantity
+Net Weight: 250g,Net Quantity
+Net Wt: 200g,Net Quantity
+Net Weight: 100 pellets,Net Quantity
+Rich in vitamins and minerals,Claims
+High in protein,Claims
+Source of fiber,Claims
+Low in fat,Claims
+Reduced sugar,Claims
+Free from artificial colors,Claims
+Natural ingredients,Claims
+Made with real fruit,Claims
+Organic wheat,Claims
+Fresh from farm,Claims
+New and improved recipe,Claims
+100 percent natural,Claims
+Rich source of calcium,Claims
+High fiber content,Claims
+Source of vitamin D,Claims
+Low sodium,Claims
+Reduced calories,Claims
+No artificial flavors,Claims
+All natural goodness,Claims
+Made with whole grains,Claims
+No preservatives,Claims
+Zero trans fat,Claims
+Sugar free,Claims
+Gluten free,Claims
+Lactose free,Claims
+Fat free,Claims
+Cholesterol free,Claims
+Vegan friendly,Claims
+Rich in antioxidants,Claims
+High calcium,Claims
+Source of iron,Claims
+Low calorie,Claims
+Reduced salt,Claims
+Artificial flavor free,Claims
+Natural flavor,Claims
+Made fresh daily,Claims
+Organic certified,Claims
+New improved taste,Claims
+High energy,Claims
+Rich taste,Claims
+Source of goodness,Claims
+Low preservatives,Claims
+No MSG,Claims
+All vegetarian,Claims
+Fresh ingredients,Claims
+Rich creamy texture,Claims
+High taste quotient,Claims
+Low sugar variant,Claims
+No trans fats,Claims
+Fortified with vitamins,Claims
+Pure vegetarian,Claims
+Refreshing taste,Claims
+Instant energy,Claims
+Thirst quencher,Claims
+Rich in calcium,Claims
+Source of protein,Claims
+No added preservatives,Claims
+Fresh from dairy,Claims
+Farm fresh milk,Claims
+Pure and wholesome,Claims
+Creamy goodness,Claims
+High fiber bread,Claims
+Whole wheat goodness,Claims
+Soft and fresh,Claims
+Crispy and crunchy,Claims
+Perfectly salted,Claims
+Thin and crispy,Claims
+Fruity flavors,Claims
+Long lasting taste,Claims
+Sugar free variant available,Claims
+Rich in fiber,Claims
+Whole grain nutrition,Claims
+Energizing breakfast,Claims
+Pure and natural,Claims
+No artificial colors,Claims
+Authentic blend,Claims
+Tasty treat,Claims
+Perfect blend,Claims
+Quality assured,Claims
+Authentic recipe,Claims
+Traditional taste,Claims
+Original recipe,Claims
+Premium quality,Claims
+High in omega 3,Claims
+Rich in antioxidants,Claims
+Source of energy,Claims
+Low cholesterol,Claims
+Reduced fat,Claims
+Free from gluten,Claims
+Natural goodness,Claims
+Made with love,Claims
+Handcrafted quality,Claims
+Restaurant style taste,Claims
+Home made flavor,Claims
+Chef recommended,Claims
+Family favorite,Claims
+Award winning recipe,Claims
+Customer choice,Claims
+Best seller,Claims
+Rich and creamy,Claims
+Made with real milk,Claims
+Premium quality,Claims
+Rich aroma,Claims
+Pure tea leaves,Claims
+Refreshing beverage,Claims
+Rich coffee flavor,Claims
+Premium roast,Claims
+Strong and aromatic,Claims
+Zero calorie sweetener,Claims
+Sugar free,Claims
+Safe for diabetics,Claims
+Contains probiotics,Claims
+Helps maintain healthy bones,Claims
+Good for digestion,Claims
+Energy boosting formula,Claims
+Supports immune system,Claims
+Heart healthy choice,Claims
+Promotes healthy skin,Claims
+Great tasting nutrition,Claims
+Perfect for breakfast,Claims
+Ideal for weight management,Claims
+Delicious and nutritious,Claims
+Made for active lifestyles,Claims
+Better for you option,Claims
+Wholesome family snack,Claims
+Smart choice for kids,Claims
+Irresistibly creamy,Claims
+Smooth and rich flavor,Claims
+Crunchy texture,Claims
+Melt in your mouth goodness,Claims
+Perfectly balanced taste,Claims
+Coca-Cola Classic,Product Name
+Lay's Original Potato Chips,Product Name
+Nestlé Milo Chocolate Malt Drink,Product Name
+Cadbury Dairy Milk Chocolate,Product Name
+Oreo Original Cookies,Product Name
+Pepsi Cola,Product Name
+Doritos Nacho Cheese Flavor,Product Name
+Maggi 2 Minute Noodles,Product Name
+Kellogg's Corn Flakes Original,Product Name
+Snickers Chocolate Bar,Product Name
+KitKat Milk Chocolate Wafer,Product Name
+Pringles Original,Product Name
+Nutella Hazelnut Spread,Product Name
+Red Bull Energy Drink,Product Name
+Tropicana Orange Juice,Product Name
+Ben and Jerry's Chunky Monkey,Product Name
+Heinz Tomato Ketchup,Product Name
+Hershey's Milk Chocolate,Product Name
+M&M's Peanut Chocolate,Product Name
+Starbucks Frappuccino,Product Name
+Mountain Dew Citrus Soda,Product Name
+Sprite Lemon Lime,Product Name
+Fanta Orange Flavor,Product Name
+Lipton Ice Tea,Product Name
+Gatorade Sports Drink,Product Name
+Nestle Pure Life Water,Product Name
+Quaker Oats Instant Oatmeal,Product Name
+Uncle Ben's Ready Rice,Product Name
+Campbell's Tomato Soup,Product Name
+Knorr Chicken Stock,Product Name
+Britannia Marie Gold Biscuits,Product Name
+Parle-G Glucose Biscuits,Product Name
+Amul Butter,Product Name
+Mother Dairy Milk,Product Name
+Haldiram's Bhujia,Product Name
+Nestle Everyday Dairy Whitener,Product Name
+Nestle a plus Milk,Product Name
+Amul Gold Full Cream Milk,Product Name
+Mother Dairy Token Milk,Product Name
+Britannia Cheese Slices,Product Name
+Amul Processed Cheese,Product Name
+Britannia Bread,Product Name
+Modern Bread,Product Name
+Harvest Gold Bread,Product Name
+Kwality Bread,Product Name
+Balaji Wafers,Product Name
+Bingo Mad Angles,Product Name
+Uncle Chips,Product Name
+Kurkure Masala Munch,Product Name
+Mentos Mint,Product Name
+Center fresh Chewing Gum,Product Name
+Alpenliebe Juzt Jelly,Product Name
+Pulse Candy,Product Name
+Kelloggs Chocos,Product Name
+Kelloggs Special K,Product Name
+Bagrrys Muesli,Product Name
+Saffola Oats,Product Name
+MDH Deggi Mirch,Product Name
+Everest Garam Masala,Product Name
+Bisleri Mineral Water,Product Name
+Thums Up Cola,Product Name
+Limca Lemon Drink,Product Name
+Frooti Mango Drink,Product Name
+Real Fruit Juice,Product Name
+Maaza Mango Drink,Product Name
+Slice Mango Beverage,Product Name
+Appy Fizz Sparkling Drink,Product Name
+Minute Maid Pulpy Orange,Product Name
+Paper Boat Aam Panna,Product Name
+McCain French Fries,Product Name
+Venky's Chicken Nuggets,Product Name
+Yippee Noodles,Product Name
+Top Ramen Curry,Product Name
+Ching's Secret Hakka Noodles,Product Name
+Knorr Soup,Product Name
+Maggi Cuppa Mania,Product Name
+Bikano Bhujia,Product Name
+Priya Pickle,Product Name
+MTR Ready to Eat,Product Name
+Vadilal Cassata Ice Cream,Product Name
+Amul Ice Cream,Product Name
+Kwality Walls Cornetto,Product Name
+Mother Dairy Ice Cream,Product Name
+Tata Tea Gold,Product Name
+Red Label Natural Care,Product Name
+Taj Mahal Tea,Product Name
+Brooke Bond Red Label,Product Name
+Society Tea,Product Name
+Wagh Bakri Tea,Product Name
+Nescafe Classic Coffee,Product Name
+Bru Instant Coffee,Product Name
+Continental Coffee,Product Name
+Sugar Free Gold,Product Name
+Equal Sweetener,Product Name
+Golden Harvest Biscuits,Product Name
+Sunfeast Dark Fantasy,Product Name
+Good Day Butter Cookies,Product Name
+Tiger Glucose Biscuits,Product Name
+Treat Cream Wafers,Product Name
+Coca-Cola,Brand Name
+Pepsi,Brand Name
+Nestlé,Brand Name
+Unilever,Brand Name
+Kraft,Brand Name
+Mondelez,Brand Name
+PepsiCo,Brand Name
+General Mills,Brand Name
+Kellogg's,Brand Name
+Mars,Brand Name
+Ferrero,Brand Name
+Danone,Brand Name
+Hershey,Brand Name
+Cadbury,Brand Name
+Lay's,Brand Name
+Doritos,Brand Name
+Oreo,Brand Name
+KitKat,Brand Name
+Snickers,Brand Name
+Pringles,Brand Name
+Maggi,Brand Name
+Lipton,Brand Name
+Tropicana,Brand Name
+Gatorade,Brand Name
+Sprite,Brand Name
+Fanta,Brand Name
+Mountain Dew,Brand Name
+Red Bull,Brand Name
+Starbucks,Brand Name
+Ben and Jerry's,Brand Name
+Britannia,Brand Name
+Parle,Brand Name
+Amul,Brand Name
+Haldiram,Brand Name
+Mother Dairy,Brand Name
+Sunfeast,Brand Name
+Good Day,Brand Name
+Tiger,Brand Name
+Treat,Brand Name
+Golden,Brand Name
+Bisleri,Brand Name
+Thums Up,Brand Name
+Limca,Brand Name
+Frooti,Brand Name
+Real,Brand Name
+Maaza,Brand Name
+Slice,Brand Name
+Appy Fizz,Brand Name
+Minute Maid,Brand Name
+Paper Boat,Brand Name
+McCain,Brand Name
+Venky's,Brand Name
+Yippee,Brand Name
+Top Ramen,Brand Name
+Ching's Secret,Brand Name
+Knorr,Brand Name
+Bikano,Brand Name
+Priya,Brand Name
+MTR,Brand Name
+Vadilal,Brand Name
+Kwality Walls,Brand Name
+Tata Tea,Brand Name
+Red Label,Brand Name
+Taj Mahal,Brand Name
+Brooke Bond,Brand Name
+Society,Brand Name
+Wagh Bakri,Brand Name
+Nescafe,Brand Name
+Bru,Brand Name
+Continental,Brand Name
+Sugar Free,Brand Name
+Equal,Brand Name
+Balaji,Brand Name
+Bingo,Brand Name
+Uncle Chips,Brand Name
+Kurkure,Brand Name
+Mentos,Brand Name
+Center fresh,Brand Name
+Alpenliebe,Brand Name
+Pulse,Brand Name
+Bagrrys,Brand Name
+Saffola,Brand Name
+MDH,Brand Name
+Everest,Brand Name
+Catch,Brand Name
+English Oven,Brand Name
+Modern,Brand Name
+Harvest Gold,Brand Name
+For more information visit www.nestle.com or email contact@nestle.com,URL
+FSSAI License: 12345678901234 Manufactured by Nestle India,License Number
+Contains milk and soy May contain traces of nuts,Allergen Warning
+Ingredients: Wheat flour (maida) sugar salt and Contains gluten,Ingredients
+Store in cool dry place Refrigerate after opening,Storage Instructions
+Rich in protein and fiber Low in fat High in calcium,Claims
+Net Wt: 500g (17.6 oz),Net Quantity
+Marketed by ITC Ltd Bangalore and Manufactured in India,Address
+Use within 3 days of opening Best consumed fresh,Usage Instructions
+Natural and organic Free from preservatives,Claims
+Gluten free Suitable for celiacs,Claims
+Made in India by local farmers,Product Name
+Premium quality Authentic taste Traditional recipe,Claims
+Contains butter which is a dairy product,Allergen Warning
+Product may contain egg or egg derivatives,Allergen Warning
+Processed in a facility that also processes wheat nuts and soy,Allergen Warning
+Free from artificial colors and flavors No preservatives added,Claims
+Vegan Dairy free Lactose free,Claims
+Rich source of dietary fiber Helps in digestion,Claims
+Low GI food Good for diabetics,Claims
+Keto friendly Low carb High fat,Claims
+Organic Non GMO Gluten free,Claims
+Directions: Mix with 200ml hot water Stir well Serve hot,Usage Instructions
+Store below 5C Do not freeze Once opened consume within 48 hours,Storage Instructions
+Best before 6 months from date of manufacturing See pack,Usage Instructions
+For allergen information see ingredients in bold,Allergen Warning
+This product is manufactured in India using imported ingredients,Address
+Net content: 250g Drained weight: 180g,Net Quantity
+USDA Organic Certified by India Organic,Claims
+Halal certified ISO 22000 certified,Claims
+BIS certified ISI marked,Claims
+AGMARK certified,Claims
+Made with whole wheat Contains 12 grams of protein per serving,Claims
+Good source of vitamin D and calcium Fortified with iron,Claims
+Zero added sugar Naturally sweetened with stevia,Claims
+Paleo friendly Grain free,Claims
+Child safe No choking hazard,Claims
+Suitable for vegetarians Contains no animal products except dairy,Claims
+May not be suitable for people with nut allergies,Allergen Warning
+Free from: Gluten Dairy Soy Eggs Nuts,Claims
+Artificially flavored Contains permitted synthetic food color,Claims
+This pack contains 10 individual servings of 25g each,Net Quantity
+Made from farm fresh ingredients within 24 hours of harvest,Claims
+Slow roasted for enhanced flavor,Claims
+Cold pressed Extra virgin,Claims
+Single origin Estate grown,Claims
+Hand picked Sun dried,Claims
+Stone ground Traditional method,Claims
+Wood fired Clay oven baked,Claims
+Small batch Artisanal,Claims
+Minimally processed Retains natural nutrients,Claims
+No refined flour (maida) Made with whole grain atta,Claims
+Jaggery sweetened No white sugar,Claims
+Ghee roasted in pure desi ghee,Claims
+Sprouted grains Activated nuts,Claims
+Fermented for gut health Contains live cultures,Claims
+Raw Unpasteurized,Claims
+Ingredients: Chickpea flour (besan) edible vegetable oil (palmolein) and iodized salt,Ingredients
+Ingredients: Rice (70%) lentils (20%) edible vegetable oil spices and condiments,Ingredients
+Allergens: Contains added flavors (natural and nature identical flavoring substances),Allergen Warning
+This product contains added flavor enhancer (E621),Allergen Warning
+Nutritive Information: Serving size 30g Servings per container 10,Net Quantity
+Energy per 100g: 450 kcal Protein: 10g Fat: 15g Carbohydrates: 65g,Claims
+Contains approximately 5mg of sodium per 100g,Claims
+RDA: Provides 15% of daily fiber requirement,Claims
+Not a significant source of trans fat,Claims
+Less than 2% alcohol by volume,Claims
+Caffeine content: 80mg per serving,Claims
+Contains phenylalanine,Allergen Warning
+Aspartame: Contains a source of phenylalanine,Allergen Warning
+Suitable for consumption by children above 3 years,Usage Instructions
+Not suitable for infants below 6 months,Usage Instructions
+Pregnant and lactating women should consult a doctor,Usage Instructions
+Keep out of reach of children,Usage Instructions
+In case of any adverse reaction discontinue use and consult physician,Usage Instructions
+For best results use before expiry date,Usage Instructions
+Once opened transfer to an airtight container,Storage Instructions
+Do not use if seal is broken or missing,Usage Instructions
+Store in original packaging until use,Storage Instructions
+Protect from heat light and moisture,Storage Instructions
+Do not store in direct sunlight or near heat source,Storage Instructions
+Allergen Statement: This product is made in a facility that also processes milk eggs wheat soy peanuts and tree nuts,Allergen Warning
+Cross contamination with allergens may occur,Allergen Warning
+Despite our best efforts to remove all shells some shell pieces may remain,Allergen Warning
+Suitable for microwave and oven Not suitable for stovetop,Usage Instructions
+Microwave safe Not dishwasher safe,Usage Instructions
+Shake well Separation is natural,Usage Instructions
+Color may vary from batch to batch,Usage Instructions
+Sediment at bottom is natural and safe to consume,Usage Instructions
+Chill before serving for best taste,Usage Instructions
+Can be frozen for up to 3 months,Storage Instructions
+Thaw in refrigerator before use Do not thaw at room temperature,Usage Instructions
+For corporate enquiries contact +91-11-12345678,Email
+Toll free: 1800-123-4567 Email: care@brand.com,Email
+Consumer helpline: Available Monday to Friday 9am to 6pm,Email
+Visit our website for recipes and serving suggestions,URL
+Scan QR code for nutritional information and allergen details,URL
+Follow us on social media for latest updates and offers,URL
+Product of India Packed in India,Address
+Made in USA Distributed in India by XYZ Corp Delhi,Address
+Imported by ABC Foods Mumbai on behalf of Brand Inc,Address
+Country of origin: Thailand,Address
+Manufactured under license from Original Brand USA,Address
+Bottled at source,Address
+Ingredients sourced globally Packed in India,Address
+A product of France,Address
+Italian recipe Indian taste,Product Name

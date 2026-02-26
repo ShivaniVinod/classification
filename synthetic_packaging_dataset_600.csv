@@ -1,0 +1,647 @@
+text,true_label,tier,notes
+contact@nestle.com,Email,1,Regex pattern
+info@unilever.co.uk,Email,1,Regex pattern
+customercare@kraftfoods.com,Email,1,Regex pattern
+support@pepsico.com,Email,1,Regex pattern
+hello@mondelez.com,Email,1,Regex pattern
+www.kelloggs.com,URL,1,Regex pattern
+https://www.nestle.com/products,URL,1,Regex pattern
+www.coca-cola.com,URL,1,Regex pattern
+http://brand.com,URL,1,Regex pattern
+www.unilever.com/contact,URL,1,Regex pattern
+visit us at www.pepsico.com,URL,1,Contains URL
+check www.kraftheinz.com for details,URL,1,Contains URL
+more info at https://brand.com/nutrition,URL,1,Contains URL
+FSSAI No: 12345678901234,License Number,1,FSSAI format
+License No: 987654321,License Number,1,License format
+LIC No: 123456789,License Number,1,LIC abbreviation
+FSSAI Lic No: 11223344556677,License Number,1,FSSAI License
+License Number: 555666777,License Number,1,Full text
+Ingredients: Wheat flour sugar salt palm oil water,Ingredients,2a,Anchor present
+INGREDIENTS: Sugar corn syrup gelatin natural flavors,Ingredients,2a,Anchor present
+Ingredients: Milk powder cocoa butter soy lecithin,Ingredients,2a,Anchor present
+Ingredients: Rice corn wheat vitamin E iron,Ingredients,2a,Anchor present
+INGREDIENTS: Water tomato paste salt spices,Ingredients,2a,Anchor present
+Ingredients: Peanuts vegetable oil salt,Ingredients,2a,Anchor present
+Ingredients: Oats honey brown sugar cinnamon,Ingredients,2a,Anchor present
+Wheat flour sugar eggs butter vanilla,Ingredients,3,No anchor - semantic
+Sugar water citric acid natural flavoring,Ingredients,3,No anchor - semantic
+Milk cocoa butter soy lecithin,Ingredients,3,No anchor - semantic
+Rice wheat corn oats barley,Ingredients,3,No anchor - semantic
+Water flour salt yeast oil,Ingredients,3,No anchor - semantic
+Tomatoes onions garlic olive oil basil,Ingredients,3,No anchor - semantic
+Peanuts salt,Ingredients,3,No anchor - semantic
+Almonds cashews walnuts pecans,Ingredients,3,No anchor - semantic
+Contains milk soy wheat,Allergen Warning,2a,Contains anchor
+Contains peanuts and tree nuts,Allergen Warning,2a,Contains anchor
+May contain traces of peanuts,Allergen Warning,2a,May contain anchor
+May contain milk eggs soy,Allergen Warning,2a,May contain anchor
+Allergens: Contains gluten milk,Allergen Warning,2a,Allergen anchor
+Allergy advice: Contains fish,Allergen Warning,2a,Allergen anchor
+Contains wheat eggs dairy,Allergen Warning,2a,Contains anchor
+May contain traces of nuts and sesame,Allergen Warning,2a,May contain anchor
+Allergen: Soy,Allergen Warning,2a,Allergen anchor
+Contains shellfish,Allergen Warning,2a,Contains anchor
+Contains mustard and celery,Allergen Warning,2a,Contains anchor
+May contain sulphites,Allergen Warning,2a,May contain anchor
+Allergen information: Contains lupin,Allergen Warning,2a,Allergen anchor
+Contains molluscs,Allergen Warning,2a,Contains anchor
+Produced in facility that handles peanuts,Allergen Warning,2a,Contains facility reference
+Made in a factory that processes tree nuts,Allergen Warning,2a,Factory reference
+Packaged on equipment that also processes milk,Allergen Warning,2a,Equipment reference
+Contains butter,Allergen Warning,2a,Dairy source
+Contains whey,Allergen Warning,2a,Dairy source
+Contains casein,Allergen Warning,2a,Dairy source
+Store in a cool dry place,Storage Instructions,2a,Store anchor
+Keep refrigerated,Storage Instructions,2a,Keep anchor
+Refrigerate after opening,Storage Instructions,2a,Refrigerate anchor
+Store below 25 degrees celsius,Storage Instructions,2a,Store anchor
+Keep frozen,Storage Instructions,2a,Keep anchor
+Store in refrigerator,Storage Instructions,2a,Store anchor
+Freeze until ready to use,Storage Instructions,2a,Freeze anchor
+Keep in cool place,Storage Instructions,2a,Keep anchor
+Store away from direct sunlight,Storage Instructions,2a,Store anchor
+Refrigerate immediately after purchase,Storage Instructions,2a,Refrigerate anchor
+Keep chilled at all times,Storage Instructions,2a,Keep anchor
+Store in airtight container,Storage Instructions,2a,Store anchor
+Keep sealed when not in use,Storage Instructions,2a,Keep anchor
+Once opened keep refrigerated,Storage Instructions,2a,Keep + refrigerated
+Store between 2 to 8 degrees,Storage Instructions,2a,Store anchor
+Best kept cold,Storage Instructions,3,No anchor - semantic
+Keep away from heat,Storage Instructions,3,No anchor - semantic
+Maintain at low temperature,Storage Instructions,3,No anchor - semantic
+Do not expose to sunlight,Storage Instructions,3,No anchor - semantic
+Cool and dry conditions required,Storage Instructions,3,No anchor - semantic
+Directions: Heat in microwave for 2 minutes,Usage Instructions,2a,Directions anchor
+How to use: Add hot water and stir,Usage Instructions,2a,How to use anchor
+Preparation: Cook at 180 degrees for 20 minutes,Usage Instructions,2a,Preparation anchor
+Usage: Apply evenly to surface,Usage Instructions,2a,Usage anchor
+Directions: Shake well before serving,Usage Instructions,2a,Directions anchor
+How to prepare: Boil for 10 minutes,Usage Instructions,2a,How to prepare anchor
+Cooking instructions: Bake at 200 degrees,Usage Instructions,2a,Cooking anchor
+Directions for use: Mix with water,Usage Instructions,2a,Directions anchor
+Preparation instructions: Thaw before cooking,Usage Instructions,2a,Preparation anchor
+Usage directions: Apply thin layer,Usage Instructions,2a,Usage anchor
+Heat for 2 minutes in microwave,Usage Instructions,3,No anchor - semantic
+Add boiling water and stir,Usage Instructions,3,No anchor - semantic
+Cook at 180 degrees for 25 minutes,Usage Instructions,3,No anchor - semantic
+Shake well before use,Usage Instructions,3,No anchor - semantic
+Microwave on high for 90 seconds,Usage Instructions,3,No anchor - semantic
+Bake until golden brown,Usage Instructions,3,No anchor - semantic
+Warm in oven for 5 minutes,Usage Instructions,3,No anchor - semantic
+Mix thoroughly before serving,Usage Instructions,3,No anchor - semantic
+Stir continuously while cooking,Usage Instructions,3,No anchor - semantic
+Defrost overnight in refrigerator,Usage Instructions,3,No anchor - semantic
+Manufactured by Nestle India Ltd Mumbai,Address,2a,Manufactured by anchor
+Marketed by Hindustan Unilever Limited Delhi,Address,2a,Marketed by anchor
+Packed by PepsiCo India Holdings Gurgaon,Address,2a,Packed by anchor
+Distributed by Coca Cola India Bangalore,Address,2a,Distributed by anchor
+Manufactured by Mondelez International Pune,Address,2a,Manufactured by anchor
+Mfg by Britannia Industries Chennai,Address,2a,Mfg abbreviation
+Marketed by ITC Limited Kolkata,Address,2a,Marketed by anchor
+Packed by Parle Products Mumbai Maharashtra,Address,2a,Packed by anchor
+Manufactured by Amul Dairy Anand Gujarat,Address,2a,Manufactured by anchor
+Distributed by Dabur India Ltd New Delhi,Address,2a,Distributed by anchor
+Manufactured by Nestle USA California,Address,2a,Manufactured by anchor
+Produced by Kraft Foods Illinois,Address,2a,Produced by anchor
+Packed by General Mills Minnesota,Address,2a,Packed by anchor
+Marketed by Mars Inc Virginia,Address,2a,Marketed by anchor
+Manufactured by Ferrero New Jersey,Address,2a,Manufactured by anchor
+Net Weight: 500g,Net Quantity,2a,Net Weight anchor
+Net Wt: 250ml,Net Quantity,2a,Net Wt anchor
+Contents: 1 kg,Net Quantity,2a,Contents anchor
+Net Quantity: 750g,Net Quantity,2a,Net Quantity anchor
+Net Content: 2 liters,Net Quantity,2a,Net Content anchor
+Net Wt 340g,Net Quantity,2a,Net Wt anchor
+Weight: 450 grams,Net Quantity,2a,Weight anchor
+Volume: 500 milliliters,Net Quantity,2a,Volume anchor
+Net: 1.5L,Net Quantity,2a,Net anchor
+Contents: 200ml,Net Quantity,2a,Contents anchor
+Net Weight 600g,Net Quantity,2a,Net Weight anchor
+Wt: 800g,Net Quantity,2a,Weight anchor
+Net Quantity 1kg,Net Quantity,2a,Net Quantity anchor
+Contents 750ml,Net Quantity,2a,Contents anchor
+Net 2L,Net Quantity,2a,Net anchor
+Rich in vitamins and minerals,Claims,2b,Rich in pattern
+High in protein,Claims,2b,High in pattern
+Source of fiber,Claims,2b,Source of pattern
+Low in fat,Claims,2b,Low in pattern
+Reduced sugar,Claims,2b,Reduced pattern
+Free from artificial colors,Claims,2b,Free from pattern
+Natural ingredients,Claims,2b,Natural keyword
+Made with real fruit,Claims,2b,Made with pattern
+Organic wheat,Claims,2b,Organic keyword
+Fresh from farm,Claims,2b,Fresh keyword
+New and improved recipe,Claims,2b,New keyword
+100 percent natural,Claims,2b,Natural keyword
+Rich source of calcium,Claims,2b,Rich in pattern
+High fiber content,Claims,2b,High in pattern
+Source of vitamin D,Claims,2b,Source of pattern
+Low sodium,Claims,2b,Low in pattern
+Reduced calories,Claims,2b,Reduced pattern
+No artificial flavors,Claims,2b,No artificial pattern
+All natural goodness,Claims,2b,Natural keyword
+Made with whole grains,Claims,2b,Made with pattern
+No preservatives,Claims,2b,No pattern
+Zero trans fat,Claims,2b,Zero pattern
+Sugar free,Claims,2b,Free pattern
+Gluten free,Claims,2b,Free pattern
+Lactose free,Claims,2b,Free pattern
+Fat free,Claims,2b,Free pattern
+Cholesterol free,Claims,2b,Free pattern
+Vegan friendly,Claims,2b,Vegan keyword
+Contains probiotics,Claims,3,No pattern - semantic
+Helps maintain healthy bones,Claims,3,No pattern - semantic
+Good for digestion,Claims,3,No pattern - semantic
+Energy boosting formula,Claims,3,No pattern - semantic
+Supports immune system,Claims,3,No pattern - semantic
+Heart healthy choice,Claims,3,No pattern - semantic
+Promotes healthy skin,Claims,3,No pattern - semantic
+Great tasting nutrition,Claims,3,No pattern - semantic
+Perfect for breakfast,Claims,3,No pattern - semantic
+Ideal for weight management,Claims,3,No pattern - semantic
+Delicious and nutritious,Claims,3,No pattern - semantic
+Made for active lifestyles,Claims,3,No pattern - semantic
+Better for you option,Claims,3,No pattern - semantic
+Wholesome family snack,Claims,3,No pattern - semantic
+Smart choice for kids,Claims,3,No pattern - semantic
+Irresistibly creamy,Claims,3,No pattern - semantic
+Smooth and rich flavor,Claims,3,No pattern - semantic
+Crunchy texture,Claims,3,No pattern - semantic
+Melt in your mouth goodness,Claims,3,No pattern - semantic
+Perfectly balanced taste,Claims,3,No pattern - semantic
+Coca-Cola Classic,Product Name,4,Brand + variant
+Lay's Original Potato Chips,Product Name,4,Brand + variant
+Nestlé Milo Chocolate Malt Drink,Product Name,4,Brand + variant
+Cadbury Dairy Milk Chocolate,Product Name,4,Brand + variant
+Oreo Original Cookies,Product Name,4,Brand + variant
+Pepsi Cola,Product Name,4,Brand + variant
+Doritos Nacho Cheese Flavor,Product Name,4,Brand + variant
+Maggi 2 Minute Noodles,Product Name,4,Brand + variant
+Kellogg's Corn Flakes Original,Product Name,4,Brand + variant
+Snickers Chocolate Bar,Product Name,4,Brand + variant
+KitKat Milk Chocolate Wafer,Product Name,4,Brand + variant
+Pringles Original,Product Name,4,Brand + variant
+Nutella Hazelnut Spread,Product Name,4,Brand + variant
+Red Bull Energy Drink,Product Name,4,Brand + variant
+Tropicana Orange Juice,Product Name,4,Brand + variant
+Ben and Jerry's Chunky Monkey,Product Name,4,Brand + variant
+Heinz Tomato Ketchup,Product Name,4,Brand + variant
+Hershey's Milk Chocolate,Product Name,4,Brand + variant
+M&M's Peanut Chocolate,Product Name,4,Brand + variant
+Starbucks Frappuccino,Product Name,4,Brand + variant
+Mountain Dew Citrus Soda,Product Name,4,Brand + variant
+Sprite Lemon Lime,Product Name,4,Brand + variant
+Fanta Orange Flavor,Product Name,4,Brand + variant
+Lipton Ice Tea,Product Name,4,Brand + variant
+Gatorade Sports Drink,Product Name,4,Brand + variant
+Nestle Pure Life Water,Product Name,4,Brand + variant
+Quaker Oats Instant Oatmeal,Product Name,4,Brand + variant
+Uncle Ben's Ready Rice,Product Name,4,Brand + variant
+Campbell's Tomato Soup,Product Name,4,Brand + variant
+Knorr Chicken Stock,Product Name,4,Brand + variant
+Coca-Cola,Brand Name,4,Brand only
+Pepsi,Brand Name,4,Brand only
+Nestlé,Brand Name,4,Brand only
+Unilever,Brand Name,4,Brand only
+Kraft,Brand Name,4,Brand only
+Mondelez,Brand Name,4,Brand only
+PepsiCo,Brand Name,4,Brand only
+General Mills,Brand Name,4,Brand only
+Kellogg's,Brand Name,4,Brand only
+Mars,Brand Name,4,Brand only
+Ferrero,Brand Name,4,Brand only
+Danone,Brand Name,4,Brand only
+Hershey,Brand Name,4,Brand only
+Cadbury,Brand Name,4,Brand only
+Lay's,Brand Name,4,Brand only
+Doritos,Brand Name,4,Brand only
+Oreo,Brand Name,4,Brand only
+KitKat,Brand Name,4,Brand only
+Snickers,Brand Name,4,Brand only
+Pringles,Brand Name,4,Brand only
+Maggi,Brand Name,4,Brand only
+Lipton,Brand Name,4,Brand only
+Tropicana,Brand Name,4,Brand only
+Gatorade,Brand Name,4,Brand only
+Sprite,Brand Name,4,Brand only
+Fanta,Brand Name,4,Brand only
+Mountain Dew,Brand Name,4,Brand only
+Red Bull,Brand Name,4,Brand only
+Starbucks,Brand Name,4,Brand only
+Ben and Jerry's,Brand Name,4,Brand only
+support@company.com,Email,1,Regex pattern
+www.brand.org,URL,1,Regex pattern
+https://product.net,URL,1,Regex pattern
+FSSAI License: 99887766554433,License Number,1,FSSAI format
+LIC Number: 321654987,License Number,1,License format
+Ingredients: Almonds cashews honey salt,Ingredients,2a,Anchor present
+Ingredients: Chicken salt pepper garlic,Ingredients,2a,Anchor present
+Ingredients: Coconut oil sugar vanilla,Ingredients,2a,Anchor present
+Contains eggs and dairy,Allergen Warning,2a,Contains anchor
+May contain soy and wheat,Allergen Warning,2a,May contain anchor
+Allergen: Peanuts,Allergen Warning,2a,Allergen anchor
+Store in cool dry area,Storage Instructions,2a,Store anchor
+Keep away from moisture,Storage Instructions,2a,Keep anchor
+Refrigerate once opened,Storage Instructions,2a,Refrigerate anchor
+Directions: Serve chilled,Usage Instructions,2a,Directions anchor
+How to cook: Fry for 5 minutes,Usage Instructions,2a,How to cook anchor
+Preparation: Steam for 15 minutes,Usage Instructions,2a,Preparation anchor
+Manufactured by Dabur India Pvt Ltd Delhi,Address,2a,Manufactured by anchor
+Marketed by Marico Limited Mumbai,Address,2a,Marketed by anchor
+Packed by Godrej Consumer Products Pune,Address,2a,Packed by anchor
+Net Weight: 1kg,Net Quantity,2a,Net Weight anchor
+Contents: 500ml,Net Quantity,2a,Contents anchor
+Net Wt 250g,Net Quantity,2a,Net Wt anchor
+Rich in antioxidants,Claims,2b,Rich in pattern
+High calcium,Claims,2b,High in pattern
+Source of iron,Claims,2b,Source of pattern
+Low calorie,Claims,2b,Low in pattern
+Reduced salt,Claims,2b,Reduced pattern
+Artificial flavor free,Claims,2b,Free pattern
+Natural flavor,Claims,2b,Natural keyword
+Made fresh daily,Claims,2b,Fresh keyword
+Organic certified,Claims,2b,Organic keyword
+New improved taste,Claims,2b,New keyword
+Britannia Marie Gold Biscuits,Product Name,4,Brand + variant
+Parle-G Glucose Biscuits,Product Name,4,Brand + variant
+Amul Butter,Product Name,4,Brand + variant
+Mother Dairy Milk,Product Name,4,Brand + variant
+Haldiram's Bhujia,Product Name,4,Brand + variant
+Britannia,Brand Name,4,Brand only
+Parle,Brand Name,4,Brand only
+Amul,Brand Name,4,Brand only
+Haldiram,Brand Name,4,Brand only
+Mother Dairy,Brand Name,4,Brand only
+customerservice@food.com,Email,1,Regex pattern
+visit www.snacks.com,URL,1,Contains URL
+License No: 147258369,License Number,1,License format
+Ingredients: Maida besan oil spices,Ingredients,2a,Anchor present
+Rice dal ghee turmeric,Ingredients,3,No anchor - semantic
+Potato onion tomato chili,Ingredients,3,No anchor - semantic
+Contains sesame,Allergen Warning,2a,Contains anchor
+Made in facility with tree nuts,Allergen Warning,2a,Facility reference
+Store at room temperature,Storage Instructions,2a,Store anchor
+Keep dry,Storage Instructions,3,No anchor - semantic
+Heat before consumption,Usage Instructions,3,No anchor - semantic
+Fry till golden,Usage Instructions,3,No anchor - semantic
+Mfg by ITC Ltd Bangalore Karnataka,Address,2a,Mfg abbreviation
+Distributed by Reliance Retail Mumbai,Address,2a,Distributed by anchor
+Net: 750g,Net Quantity,2a,Net anchor
+Wt 1.5kg,Net Quantity,2a,Weight anchor
+High energy,Claims,2b,High in pattern
+Rich taste,Claims,2b,Rich pattern
+Source of goodness,Claims,2b,Source pattern
+Low preservatives,Claims,2b,Low pattern
+No MSG,Claims,2b,No pattern
+All vegetarian,Claims,2b,All pattern
+Fresh ingredients,Claims,2b,Fresh keyword
+Tasty treat,Claims,3,No pattern - semantic
+Perfect blend,Claims,3,No pattern - semantic
+Quality assured,Claims,3,No pattern - semantic
+Authentic recipe,Claims,3,No pattern - semantic
+Traditional taste,Claims,3,No pattern - semantic
+Bisleri Mineral Water,Product Name,4,Brand + variant
+Thums Up Cola,Product Name,4,Brand + variant
+Limca Lemon Drink,Product Name,4,Brand + variant
+Frooti Mango Drink,Product Name,4,Brand + variant
+Real Fruit Juice,Product Name,4,Brand + variant
+Bisleri,Brand Name,4,Brand only
+Thums Up,Brand Name,4,Brand only
+Limca,Brand Name,4,Brand only
+Frooti,Brand Name,4,Brand only
+Real,Brand Name,4,Brand only
+info@snackbrand.in,Email,1,Regex pattern
+www.foodcompany.co.in,URL,1,Regex pattern
+FSSAI No: 10012012001002,License Number,1,FSSAI format
+Ingredients: Atta sugar milk ghee,Ingredients,2a,Anchor present
+Flour eggs sugar butter,Ingredients,3,No anchor - semantic
+Contains gluten and eggs,Allergen Warning,2a,Contains anchor
+May have milk traces,Allergen Warning,2a,May contain anchor
+Keep in airtight container,Storage Instructions,2a,Keep anchor
+Store properly,Storage Instructions,3,No anchor - semantic
+Directions: Bake at 180C for 20 mins,Usage Instructions,2a,Directions anchor
+Cook until done,Usage Instructions,3,No anchor - semantic
+Packed by Bikaji Foods Bikaner Rajasthan,Address,2a,Packed by anchor
+Net Weight 100g,Net Quantity,2a,Net Weight anchor
+Rich creamy texture,Claims,2b,Rich pattern
+High taste quotient,Claims,2b,High pattern
+Low sugar variant,Claims,2b,Low pattern
+No trans fats,Claims,2b,No pattern
+Fortified with vitamins,Claims,2b,Fortified keyword
+Pure vegetarian,Claims,2b,Pure keyword
+Original recipe,Claims,3,No pattern - semantic
+Premium quality,Claims,3,No pattern - semantic
+Golden Harvest Biscuits,Product Name,4,Brand + variant
+Sunfeast Dark Fantasy,Product Name,4,Brand + variant
+Good Day Butter Cookies,Product Name,4,Brand only
+Tiger Glucose Biscuits,Product Name,4,Brand + variant
+Treat Cream Wafers,Product Name,4,Brand + variant
+Sunfeast,Brand Name,4,Brand only
+Good Day,Brand Name,4,Brand only
+Tiger,Brand Name,4,Brand only
+Treat,Brand Name,4,Brand only
+Golden,Brand Name,4,Brand only
+hello@beverages.com,Email,1,Regex pattern
+https://drinks.in,URL,1,Regex pattern
+Lic No: 789456123,License Number,1,License format
+Ingredients: Carbonated water sugar citric acid,Ingredients,2a,Anchor present
+Water sugar color caffeine,Ingredients,3,No anchor - semantic
+Contains caffeine,Allergen Warning,2a,Contains anchor - note: not allergen but pattern matches
+Refrigerate to maintain freshness,Storage Instructions,2a,Refrigerate anchor
+Serve cold,Storage Instructions,3,No anchor - semantic
+Shake well and serve,Usage Instructions,3,No anchor - semantic
+Mfg by Varun Beverages Noida UP,Address,2a,Mfg abbreviation
+Net Quantity: 600ml,Net Quantity,2a,Net Quantity anchor
+Refreshing taste,Claims,3,No pattern - semantic
+Instant energy,Claims,3,No pattern - semantic
+Thirst quencher,Claims,3,No pattern - semantic
+Maaza Mango Drink,Product Name,4,Brand + variant
+Slice Mango Beverage,Product Name,4,Brand + variant
+Appy Fizz Sparkling Drink,Product Name,4,Brand + variant
+Minute Maid Pulpy Orange,Product Name,4,Brand + variant
+Paper Boat Aam Panna,Product Name,4,Brand + variant
+Maaza,Brand Name,4,Brand only
+Slice,Brand Name,4,Brand only
+Appy Fizz,Brand Name,4,Brand only
+Minute Maid,Brand Name,4,Brand only
+Paper Boat,Brand Name,4,Brand only
+contact@dairy.in,Email,1,Regex pattern
+www.milkproducts.com,URL,1,Regex pattern
+FSSAI Lic: 10015022003004,License Number,1,FSSAI format
+Ingredients: Full cream milk culture salt,Ingredients,2a,Anchor present
+Milk cream salt,Ingredients,3,No anchor - semantic
+Contains milk,Allergen Warning,2a,Contains anchor
+Store between 4 to 6 degrees celsius,Storage Instructions,2a,Store anchor
+Keep refrigerated always,Storage Instructions,2a,Keep + refrigerated
+Use within 3 days of opening,Usage Instructions,3,No anchor - semantic
+Manufactured by Kwality Dairy Delhi,Address,2a,Manufactured by anchor
+Net Wt: 200g,Net Quantity,2a,Net Wt anchor
+Rich in calcium,Claims,2b,Rich in pattern
+Source of protein,Claims,2b,Source pattern
+No added preservatives,Claims,2b,No added pattern
+Fresh from dairy,Claims,2b,Fresh keyword
+Farm fresh milk,Claims,2b,Fresh keyword
+Pure and wholesome,Claims,3,No pattern - semantic
+Creamy goodness,Claims,3,No pattern - semantic
+Nestle Everyday Dairy Whitener,Product Name,4,Brand + variant
+Nestle a plus Milk,Product Name,4,Brand + variant
+Amul Gold Full Cream Milk,Product Name,4,Brand + variant
+Mother Dairy Token Milk,Product Name,4,Brand + variant
+Britannia Cheese Slices,Product Name,4,Brand + variant
+Amul Processed Cheese,Product Name,4,Brand + variant
+inquiries@bakery.com,Email,1,Regex pattern
+www.breadcompany.in,URL,1,Regex pattern
+License Number: 456789012,License Number,1,License format
+Ingredients: Refined wheat flour yeast sugar salt,Ingredients,2a,Anchor present
+Wheat gluten water oil,Ingredients,3,No anchor - semantic
+Contains wheat and gluten,Allergen Warning,2a,Contains anchor
+Store in cool place away from sunlight,Storage Instructions,2a,Store anchor
+Best consumed fresh,Storage Instructions,3,No anchor - semantic
+Toast before serving,Usage Instructions,3,No anchor - semantic
+Packed by Modern Foods Mumbai Maharashtra,Address,2a,Packed by anchor
+Net Weight: 400g,Net Quantity,2a,Net Weight anchor
+High fiber bread,Claims,2b,High in pattern
+Whole wheat goodness,Claims,3,No pattern - semantic
+Soft and fresh,Claims,3,No pattern - semantic
+Britannia Bread,Product Name,4,Brand + variant
+Modern Bread,Product Name,4,Brand + variant
+Harvest Gold Bread,Product Name,4,Brand + variant
+Kwality Bread,Product Name,4,Brand only
+English Oven,Brand Name,4,Brand only
+Modern,Brand Name,4,Brand only
+Harvest Gold,Brand Name,4,Brand only
+orders@snacks.in,Email,1,Regex pattern
+https://www.crispychips.com,URL,1,Regex pattern
+FSSAI Number: 11122233344455,License Number,1,FSSAI format
+Ingredients: Potatoes vegetable oil salt,Ingredients,2a,Anchor present
+Rice flour salt spices,Ingredients,3,No anchor - semantic
+May contain traces of milk,Allergen Warning,2a,May contain anchor
+Store in cool and dry place,Storage Instructions,2a,Store anchor
+Directions: Open and enjoy,Usage Instructions,2a,Directions anchor
+Manufactured by Balaji Wafers Rajkot Gujarat,Address,2a,Manufactured by anchor
+Net: 50g,Net Quantity,2a,Net anchor
+Crispy and crunchy,Claims,3,No pattern - semantic
+Perfectly salted,Claims,3,No pattern - semantic
+Thin and crispy,Claims,3,No pattern - semantic
+Balaji Wafers,Product Name,4,Brand + variant
+Bingo Mad Angles,Product Name,4,Brand + variant
+Uncle Chips,Product Name,4,Brand only
+Kurkure Masala Munch,Product Name,4,Brand + variant
+Balaji,Brand Name,4,Brand only
+Bingo,Brand Name,4,Brand only
+Uncle Chips,Brand Name,4,Brand only
+Kurkure,Brand Name,4,Brand only
+services@confectionery.com,Email,1,Regex pattern
+www.candyshop.in,URL,1,Regex pattern
+Lic No: 112233445,License Number,1,License format
+Ingredients: Sugar glucose syrup gelatin colors,Ingredients,2a,Anchor present
+Sugar milk cocoa,Ingredients,3,No anchor - semantic
+Contains gelatin,Allergen Warning,2a,Contains anchor
+Store in cool place,Storage Instructions,2a,Store anchor
+Keep away from heat and moisture,Storage Instructions,2a,Keep anchor
+Packed by Perfetti Van Melle Gurgaon Haryana,Address,2a,Packed by anchor
+Net Wt 100g,Net Quantity,2a,Net Wt anchor
+Fruity flavors,Claims,3,No pattern - semantic
+Long lasting taste,Claims,3,No pattern - semantic
+Sugar free variant available,Claims,2b,Free pattern
+Mentos Mint,Product Name,4,Brand + variant
+Center fresh Chewing Gum,Product Name,4,Brand + variant
+Alpenliebe Juzt Jelly,Product Name,4,Brand + variant
+Pulse Candy,Product Name,4,Brand only
+Mentos,Brand Name,4,Brand only
+Center fresh,Brand Name,4,Brand only
+Alpenliebe,Brand Name,4,Brand only
+Pulse,Brand Name,4,Brand only
+support@cereals.com,Email,1,Regex pattern
+www.breakfastfoods.in,URL,1,Regex pattern
+FSSAI License No: 22334455667788,License Number,1,FSSAI format
+Ingredients: Whole grain oats wheat rice corn,Ingredients,2a,Anchor present
+Oats honey almonds,Ingredients,3,No anchor - semantic
+Contains wheat oats,Allergen Warning,2a,Contains anchor
+Store in airtight container after opening,Storage Instructions,2a,Store anchor
+Add milk and serve,Usage Instructions,3,No anchor - semantic
+Mfg by Bagrrys India Dehradun Uttarakhand,Address,2a,Mfg abbreviation
+Net Weight: 500g,Net Quantity,2a,Net Weight anchor
+Rich in fiber,Claims,2b,Rich in pattern
+Whole grain nutrition,Claims,3,No pattern - semantic
+Energizing breakfast,Claims,3,No pattern - semantic
+Kelloggs Chocos,Product Name,4,Brand + variant
+Kelloggs Special K,Product Name,4,Brand + variant
+Bagrrys Muesli,Product Name,4,Brand + variant
+Saffola Oats,Product Name,4,Brand + variant
+Bagrrys,Brand Name,4,Brand only
+Saffola,Brand Name,4,Brand only
+hello@spices.in,Email,1,Regex pattern
+www.masalacompany.com,URL,1,Regex pattern
+License No: 998877665,License Number,1,License format
+Ingredients: Coriander cumin turmeric chili,Ingredients,2a,Anchor present
+Turmeric chili salt,Ingredients,3,No anchor - semantic
+Store in dry place,Storage Instructions,2a,Store anchor
+Use as per taste,Usage Instructions,3,No anchor - semantic
+Packed by MDH Spices Delhi,Address,2a,Packed by anchor
+Net Quantity: 100g,Net Quantity,2a,Net Quantity anchor
+Pure and natural,Claims,2b,Natural keyword
+No artificial colors,Claims,2b,No artificial pattern
+Authentic blend,Claims,3,No pattern - semantic
+MDH Deggi Mirch,Product Name,4,Brand + variant
+Everest Garam Masala,Product Name,4,Brand + variant
+MDH,Brand Name,4,Brand only
+Everest,Brand Name,4,Brand only
+Catch,Brand Name,4,Brand only
+care@foodcorp.com,Email,1,Regex pattern
+feedback@snackbrand.in,Email,1,Regex pattern
+sales@dairyindia.com,Email,1,Regex pattern
+www.chocolatebrand.in,URL,1,Regex pattern
+https://beveragecompany.com,URL,1,Regex pattern
+www.healthfoods.org,URL,1,Regex pattern
+FSSAI Lic No: 33445566778899,License Number,1,FSSAI format
+LIC Number: 667788990,License Number,1,License format
+License No: 223344556,License Number,1,License format
+Ingredients: Groundnuts oil salt,Ingredients,2a,Anchor present
+Ingredients: Chickpea flour spices,Ingredients,2a,Anchor present
+Ingredients: Lentils onion tomato,Ingredients,2a,Anchor present
+Beans rice vegetables,Ingredients,3,No anchor - semantic
+Pasta sauce cheese,Ingredients,3,No anchor - semantic
+Noodles vegetables seasoning,Ingredients,3,No anchor - semantic
+Contains soy lecithin,Allergen Warning,2a,Contains anchor
+May contain fish,Allergen Warning,2a,May contain anchor
+Allergen: Tree nuts,Allergen Warning,2a,Allergen anchor
+Contains crustaceans,Allergen Warning,2a,Contains anchor
+May contain celery and mustard,Allergen Warning,2a,May contain anchor
+Produced in nut facility,Allergen Warning,2a,Facility reference
+Store away from moisture,Storage Instructions,2a,Store anchor
+Keep in dark place,Storage Instructions,2a,Keep anchor
+Refrigerate upon receipt,Storage Instructions,2a,Refrigerate anchor
+Best stored chilled,Storage Instructions,3,No anchor - semantic
+Avoid exposure to heat,Storage Instructions,3,No anchor - semantic
+Maintain freshness by refrigerating,Storage Instructions,3,No anchor - semantic
+Directions: Defrost and cook,Usage Instructions,2a,Directions anchor
+How to serve: Garnish and enjoy,Usage Instructions,2a,How to serve anchor
+Preparation: Simmer for 15 minutes,Usage Instructions,2a,Preparation anchor
+Grill for best results,Usage Instructions,3,No anchor - semantic
+Serve immediately after preparation,Usage Instructions,3,No anchor - semantic
+Best enjoyed warm,Usage Instructions,3,No anchor - semantic
+Manufactured by Bikano Foods Bikaner,Address,2a,Manufactured by anchor
+Marketed by Future Consumer Ltd Mumbai,Address,2a,Marketed by anchor
+Packed by Priya Foods Hyderabad,Address,2a,Packed by anchor
+Distributed by Spencer's Retail Kolkata,Address,2a,Distributed by anchor
+Mfg by McCain Foods Mehsana Gujarat,Address,2a,Mfg abbreviation
+Produced by Venky's Pune Maharashtra,Address,2a,Produced by anchor
+Net Wt: 150g,Net Quantity,2a,Net Wt anchor
+Contents: 250ml,Net Quantity,2a,Contents anchor
+Weight: 2kg,Net Quantity,2a,Weight anchor
+Net: 900g,Net Quantity,2a,Net anchor
+Volume: 1 liter,Net Quantity,2a,Volume anchor
+Net Content: 3L,Net Quantity,2a,Net Content anchor
+High in omega 3,Claims,2b,High in pattern
+Rich in antioxidants,Claims,2b,Rich in pattern
+Source of energy,Claims,2b,Source pattern
+Low cholesterol,Claims,2b,Low pattern
+Reduced fat,Claims,2b,Reduced pattern
+Free from gluten,Claims,2b,Free pattern
+Natural goodness,Claims,2b,Natural keyword
+Made with love,Claims,3,No pattern - semantic
+Handcrafted quality,Claims,3,No pattern - semantic
+Restaurant style taste,Claims,3,No pattern - semantic
+Home made flavor,Claims,3,No pattern - semantic
+Chef recommended,Claims,3,No pattern - semantic
+Family favorite,Claims,3,No pattern - semantic
+Award winning recipe,Claims,3,No pattern - semantic
+Customer choice,Claims,3,No pattern - semantic
+Best seller,Claims,3,No pattern - semantic
+McCain French Fries,Product Name,4,Brand + variant
+Venky's Chicken Nuggets,Product Name,4,Brand + variant
+Yippee Noodles,Product Name,4,Brand + variant
+Top Ramen Curry,Product Name,4,Brand + variant
+Ching's Secret Hakka Noodles,Product Name,4,Brand + variant
+Knorr Soup,Product Name,4,Brand + variant
+Maggi Cuppa Mania,Product Name,4,Brand + variant
+Bikano Bhujia,Product Name,4,Brand + variant
+Priya Pickle,Product Name,4,Brand + variant
+MTR Ready to Eat,Product Name,4,Brand + variant
+McCain,Brand Name,4,Brand only
+Venky's,Brand Name,4,Brand only
+Yippee,Brand Name,4,Brand only
+Top Ramen,Brand Name,4,Brand only
+Ching's Secret,Brand Name,4,Brand only
+Knorr,Brand Name,4,Brand only
+Bikano,Brand Name,4,Brand only
+Priya,Brand Name,4,Brand only
+MTR,Brand Name,4,Brand only
+contact@icecream.in,Email,1,Regex pattern
+www.frozendesserts.com,URL,1,Regex pattern
+FSSAI No: 44556677889900,License Number,1,FSSAI format
+Ingredients: Milk cream sugar vanilla,Ingredients,2a,Anchor present
+Cream milk chocolate,Ingredients,3,No anchor - semantic
+Contains milk and soy,Allergen Warning,2a,Contains anchor
+Keep frozen at minus 18 celsius,Storage Instructions,2a,Keep + frozen
+Do not refreeze once thawed,Storage Instructions,3,No anchor - semantic
+Manufactured by Vadilal Industries Ahmedabad,Address,2a,Manufactured by anchor
+Net Quantity: 1 liter,Net Quantity,2a,Net Quantity anchor
+Rich and creamy,Claims,2b,Rich pattern
+Made with real milk,Claims,2b,Made with pattern
+Premium quality,Claims,3,No pattern - semantic
+Vadilal Cassata Ice Cream,Product Name,4,Brand + variant
+Amul Ice Cream,Product Name,4,Brand + variant
+Kwality Walls Cornetto,Product Name,4,Brand + variant
+Mother Dairy Ice Cream,Product Name,4,Brand + variant
+Vadilal,Brand Name,4,Brand only
+Kwality Walls,Brand Name,4,Brand only
+info@teacompany.in,Email,1,Regex pattern
+www.tealeaves.com,URL,1,Regex pattern
+License Number: 334455667,License Number,1,License format
+Ingredients: Tea leaves natural flavor,Ingredients,2a,Anchor present
+Tea leaves,Ingredients,3,No anchor - semantic
+Store in cool dry place away from strong odors,Storage Instructions,2a,Store anchor
+Best brewed hot,Usage Instructions,3,No anchor - semantic
+Packed by Tata Consumer Products Bangalore,Address,2a,Packed by anchor
+Net Weight: 250g,Net Quantity,2a,Net Weight anchor
+Rich aroma,Claims,2b,Rich pattern
+Pure tea leaves,Claims,3,No pattern - semantic
+Refreshing beverage,Claims,3,No pattern - semantic
+Tata Tea Gold,Product Name,4,Brand + variant
+Red Label Natural Care,Product Name,4,Brand + variant
+Taj Mahal Tea,Product Name,4,Brand + variant
+Brooke Bond Red Label,Product Name,4,Brand + variant
+Society Tea,Product Name,4,Brand only
+Wagh Bakri Tea,Product Name,4,Brand + variant
+Tata Tea,Brand Name,4,Brand only
+Red Label,Brand Name,4,Brand only
+Taj Mahal,Brand Name,4,Brand only
+Brooke Bond,Brand Name,4,Brand only
+Society,Brand Name,4,Brand only
+Wagh Bakri,Brand Name,4,Brand only
+support@coffee.in,Email,1,Regex pattern
+www.coffeebeans.com,URL,1,Regex pattern
+FSSAI License: 55667788990011,License Number,1,FSSAI format
+Ingredients: Coffee beans,Ingredients,2a,Anchor present
+Roasted coffee,Ingredients,3,No anchor - semantic
+Store in airtight container,Storage Instructions,2a,Store anchor
+Add hot water and stir,Usage Instructions,3,No anchor - semantic
+Manufactured by CCL Products Hyderabad,Address,2a,Manufactured by anchor
+Net Wt: 200g,Net Quantity,2a,Net Wt anchor
+Rich coffee flavor,Claims,2b,Rich pattern
+Premium roast,Claims,3,No pattern - semantic
+Strong and aromatic,Claims,3,No pattern - semantic
+Nescafe Classic Coffee,Product Name,4,Brand + variant
+Bru Instant Coffee,Product Name,4,Brand + variant
+Continental Coffee,Product Name,4,Brand only
+Nescafe,Brand Name,4,Brand only
+Bru,Brand Name,4,Brand only
+Continental,Brand Name,4,Brand only
+care@sweeteners.com,Email,1,Regex pattern
+www.sugarsubstitutes.in,URL,1,Regex pattern
+Lic No: 445566778,License Number,1,License format
+Ingredients: Aspartame acesulfame potassium,Ingredients,2a,Anchor present
+Store at room temperature,Storage Instructions,2a,Store anchor
+Use as per requirement,Usage Instructions,3,No anchor - semantic
+Manufactured by Zydus Wellness Ahmedabad,Address,2a,Manufactured by anchor
+Net Weight: 100 pellets,Net Quantity,2a,Net Weight anchor
+Zero calorie sweetener,Claims,2b,Zero pattern
+Sugar free,Claims,2b,Free pattern
+Safe for diabetics,Claims,3,No pattern - semantic
+Sugar Free Gold,Product Name,4,Brand + variant
+Equal Sweetener,Product Name,4,Brand + variant
+Sugar Free,Brand Name,4,Brand only
+Equal,Brand Name,4,Brand only

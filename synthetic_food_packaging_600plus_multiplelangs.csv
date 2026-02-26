@@ -1,0 +1,1169 @@
+id,text,language,label,sub_category
+1,"Contient: Lait, Soja, Blé, Œufs",fr,Allergy Labeling,allergen_warning
+2,砂糖不使用,ja,Nutritional and Health Claims,health_claim
+3,الربيع مياه معدنية طبيعية,ar,Product Name and Identity,brand_product
+4,Mlekovita Mleko UHT 2%,pl,Product Name and Identity,brand_product
+5,Tüketim Tarihi: 09/2026,tr,Sell-By / Best-Before / Expiry Dates,expiry_date
+6,www.wedel.pl,pl,Emails or Website URL,contact_info
+7,طعم غني وكريمي,ar,Marketing Claims,promotional_text
+8,"INGREDIENTS: Wheat flour, Sugar, Palm oil, Salt, Raising agents (E500, E503), Emulsifier (E322 from soy)",en,Ingredients,ingredient_list
+9,support@mondelez.com,en,Emails or Website URL,contact_info
+10,客服@伊利.cn,zh,Emails or Website URL,contact_info
+11,Ehrmann Almighurt Joghurt,de,Product Name and Identity,brand_product
+12,"Distribué par: Carrefour SA, 93 Avenue de Paris, 91300 Massy, France",fr,Manufacturer Name and Address,manufacturer_info
+13,Справедливая торговля,ru,Certifications,certification_mark
+14,"Изготовитель: ПепсиКо Холдингс, Московская область",ru,Manufacturer Name and Address,manufacturer_info
+15,После вскрытия хранить в холодильнике и употребить в течение 3 дней,ru,Storage Instructions,storage_guidance
+16,Best Before: 09/2027,en,Sell-By / Best-Before / Expiry Dates,expiry_date
+17,www.mengniu.com.cn,zh,Emails or Website URL,contact_info
+18,customercare@pepsico.com,en,Emails or Website URL,contact_info
+19,Zengin ve Kremsi Tat,tr,Marketing Claims,promotional_text
+20,www.pingo-doce.pt,pt,Emails or Website URL,contact_info
+21,Basso contenuto di grassi,it,Nutritional and Health Claims,health_claim
+22,250毫升,zh,Net Quantity of Contents,weight_volume
+23,无人工色素和香料,zh,Marketing Claims,promotional_text
+24,Conservar em local fresco e seco,pt,Storage Instructions,storage_guidance
+25,Irresistibly Smooth,en,Marketing Claims,promotional_text
+26,iletisim@marka.com.tr,tr,Emails or Website URL,contact_info
+27,Fonte de vitamina D,pt,Nutritional and Health Claims,health_claim
+28,欧盟有机认证,zh,Certifications,certification_mark
+29,e 450g,fr,Net Quantity of Contents,weight_volume
+30,2 minuten verwarmen in magnetron op hoog vermogen,nl,Usage Instructions,preparation_guide
+31,Kosher,it,Certifications,certification_mark
+32,"Dopo l'apertura, conservare in frigorifero e consumare entro 3 giorni",it,Storage Instructions,storage_guidance
+33,Validade: 06/2027,pt,Sell-By / Best-Before / Expiry Dates,expiry_date
+34,Bio-Zertifiziert,de,Certifications,certification_mark
+35,Adil Ticaret Sertifikalı,tr,Certifications,certification_mark
+36,USE BY: 07/2026,en,Sell-By / Best-Before / Expiry Dates,expiry_date
+37,내용량: 1kg,ko,Net Quantity of Contents,weight_volume
+38,"Произведено на предприятии, использующем КУНЖУТ",ru,Allergy Labeling,allergen_warning
+39,500 grammes ℮,fr,Net Quantity of Contents,weight_volume
+40,MINDESTHALTBAR BIS: 01/2028,de,Sell-By / Best-Before / Expiry Dates,expiry_date
+41,कोशर प्रमाणित,hi,Certifications,certification_mark
+42,日清カップヌードル,ja,Product Name and Identity,brand_product
+43,À conserver au réfrigérateur après ouverture,fr,Storage Instructions,storage_guidance
+44,Toevoegen aan 200ml kokend water en roeren,nl,Usage Instructions,preparation_guide
+45,"उत्पादक: ब्रिटानिया इंडस्ट्रीज, बैंगलोर, कर्नाटक",hi,Manufacturer Name and Address,manufacturer_info
+46,"Após abertura, refrigerar e consumir em 3 dias",pt,Storage Instructions,storage_guidance
+47,VERFALLSDATUM: 01/2027,de,Sell-By / Best-Before / Expiry Dates,expiry_date
+48,PESO NETO: 1 kg,es,Net Quantity of Contents,weight_volume
+49,냉동하지 마세요. 냉장 보관.,ko,Storage Instructions,storage_guidance
+50,عالي الألياف,ar,Nutritional and Health Claims,health_claim
+51,e 450g,it,Net Quantity of Contents,weight_volume
+52,可能含有芥末,zh,Allergy Labeling,allergen_warning
+53,"Typical values per 100ml: Energy 180kJ/42kcal, Fat 1.5g, Carbohydrate 5g, Sugars 5g, Protein 3.5g, Salt 0.1g",en,Nutritional Fact Label,nutrition_table
+54,Certifié HACCP,fr,Certifications,certification_mark
+55,200 मिली उबलते पानी में मिलाएं,hi,Usage Instructions,preparation_guide
+56,"Zawiera: Mleko, Soję, Pszenicę, Jaja",pl,Allergy Labeling,allergen_warning
+57,Ingrédients 100% Naturels,fr,Marketing Claims,promotional_text
+58,保质期至：2027年5月,zh,Sell-By / Best-Before / Expiry Dates,expiry_date
+59,Natürlich lecker,de,Marketing Claims,promotional_text
+60,उपयोग की अंतिम तिथि: 12/2026,hi,Sell-By / Best-Before / Expiry Dates,expiry_date
+61,www.pinar.com.tr,tr,Emails or Website URL,contact_info
+62,Conservar ao abrigo da luz solar direta,pt,Storage Instructions,storage_guidance
+63,contact@lactalis.fr,fr,Emails or Website URL,contact_info
+64,Разогреть в микроволновке 2 минуты на максимальной мощности,ru,Usage Instructions,preparation_guide
+65,Allergeni: Contiene GLUTINE,it,Allergy Labeling,allergen_warning
+66,"Fabricado por Nestlé Brasil Ltda., Av. das Nações Unidas 12901, São Paulo/SP",pt,Manufacturer Name and Address,manufacturer_info
+67,ISO 22000,pt,Certifications,certification_mark
+68,"Produced by Mondelez International, East Hanover, NJ 07936, USA",en,Manufacturer Name and Address,manufacturer_info
+69,الوزن الصافي 500 جرام,ar,Net Quantity of Contents,weight_volume
+70,180°C'de 25 dakika pişirin,tr,Usage Instructions,preparation_guide
+71,غني بأوميغا 3,ar,Nutritional and Health Claims,health_claim
+72,संपर्क: brand.com,hi,Emails or Website URL,contact_info
+73,Bez dodatku cukru,pl,Nutritional and Health Claims,health_claim
+74,शुद्ध मात्रा 500 ग्राम,hi,Net Quantity of Contents,weight_volume
+75,"Fabriqué par Lactalis, Avenue du Général de Gaulle, 53000 Laval, France",fr,Manufacturer Name and Address,manufacturer_info
+76,生产日期：2026年8月,zh,Sell-By / Best-Before / Expiry Dates,expiry_date
+77,避免阳光直射,zh,Storage Instructions,storage_guidance
+78,Store below 25°C in a dry place,en,Storage Instructions,storage_guidance
+79,250 ml e,fr,Net Quantity of Contents,weight_volume
+80,Allergene: Enthält GLUTEN,de,Allergy Labeling,allergen_warning
+81,Contiene SULFITOS,es,Allergy Labeling,allergen_warning
+82,À CONSOMMER DE PRÉFÉRENCE AVANT FIN: 05/2027,fr,Sell-By / Best-Before / Expiry Dates,expiry_date
+83,ISO 22000,fr,Certifications,certification_mark
+84,1食分：カロリー120kcal、脂質3g、炭水化物22g、たんぱく質2g,ja,Nutritional Fact Label,nutrition_table
+85,Visit us at: brand.com/products,en,Emails or Website URL,contact_info
+86,2.2 lbs,en,Net Quantity of Contents,weight_volume
+87,Koszer,pl,Certifications,certification_mark
+88,"Confezionato da: Galbani S.p.A., Via Torquato Tasso 15, 20123 Milano",it,Manufacturer Name and Address,manufacturer_info
+89,Fin: 04/2027,fr,Sell-By / Best-Before / Expiry Dates,expiry_date
+90,三只松鼠每日坚果,zh,Product Name and Identity,brand_product
+91,プレミアム品質,ja,Marketing Claims,promotional_text
+92,製造者：明治製菓株式会社、東京都中央区京橋2-4-16,ja,Manufacturer Name and Address,manufacturer_info
+93,소비기한: 07/2027,ko,Sell-By / Best-Before / Expiry Dates,expiry_date
+94,Şeker ilavesi yok,tr,Nutritional and Health Claims,health_claim
+95,Omega-3 açısından zengin,tr,Nutritional and Health Claims,health_claim
+96,sac@danone.com.br,pt,Emails or Website URL,contact_info
+97,使用前によく振る,ja,Usage Instructions,preparation_guide
+98,"영양정보（100g당）: 열량 400kcal, 지방 15g (포화지방 7g), 탄수화물 60g (당류 25g), 단백질 8g, 나트륨 200mg",ko,Nutritional Fact Label,nutrition_table
+99,खोलने के बाद फ्रिज में रखें और 3 दिनों में उपयोग करें,hi,Storage Instructions,storage_guidance
+100,농심 신라면,ko,Product Name and Identity,brand_product
+101,Düşük yağ,tr,Nutritional and Health Claims,health_claim
+102,USE BY: 11/2027,en,Sell-By / Best-Before / Expiry Dates,expiry_date
+103,Açıldıktan sonra buzdolabında saklayın ve 3 gün içinde tüketin,tr,Storage Instructions,storage_guidance
+104,Peut contenir des traces d'ARACHIDES et de FRUITS À COQUE,fr,Allergy Labeling,allergen_warning
+105,Koscher,de,Certifications,certification_mark
+106,"1,5 l",pl,Net Quantity of Contents,weight_volume
+107,Fortified with Iron,en,Nutritional and Health Claims,health_claim
+108,Срок годности: 06/2027,ru,Sell-By / Best-Before / Expiry Dates,expiry_date
+109,순중량 300g,ko,Net Quantity of Contents,weight_volume
+110,Sódio reduzido,pt,Nutritional and Health Claims,health_claim
+111,www.orion.co.kr,ko,Emails or Website URL,contact_info
+112,저나트륨,ko,Nutritional and Health Claims,health_claim
+113,Conservare sotto i 25°C,it,Storage Instructions,storage_guidance
+114,Son Kullanma Tarihi: 10/2027,tr,Sell-By / Best-Before / Expiry Dates,expiry_date
+115,삼양 불닭볶음면,ko,Product Name and Identity,brand_product
+116,Срок годности: 01/2027,ru,Sell-By / Best-Before / Expiry Dates,expiry_date
+117,High in Fibre,en,Nutritional and Health Claims,health_claim
+118,"Fabbricato da Ferrero S.p.A., Piazzale Pietro Ferrero 1, 12051 Alba (CN)",it,Manufacturer Name and Address,manufacturer_info
+119,해태 허니버터칩,ko,Product Name and Identity,brand_product
+120,Freír en aceite caliente 3-4 minutos,es,Usage Instructions,preparation_guide
+121,ISO 22000,it,Certifications,certification_mark
+122,visite: marca.pt,pt,Emails or Website URL,contact_info
+123,HACCP 인증,ko,Certifications,certification_mark
+124,Kühl und trocken lagern,de,Storage Instructions,storage_guidance
+125,Farm Fresh Quality,en,Marketing Claims,promotional_text
+126,Comércio Justo,pt,Certifications,certification_mark
+127,يفضل استهلاكه قبل: 12/2027,ar,Sell-By / Best-Before / Expiry Dates,expiry_date
+128,Qualité Premium,fr,Marketing Claims,promotional_text
+129,المكونات: ماء، معجون طماطم، ملح، توابل,ar,Ingredients,ingredient_list
+130,www.danone.es,es,Emails or Website URL,contact_info
+131,Источник витамина D,ru,Nutritional and Health Claims,health_claim
+132,Validade: 09/2026,pt,Sell-By / Best-Before / Expiry Dates,expiry_date
+133,Ingredientes 100% Naturais,pt,Marketing Claims,promotional_text
+134,Органический сертифицированный,ru,Certifications,certification_mark
+135,제조일자: 06/2026,ko,Sell-By / Best-Before / Expiry Dates,expiry_date
+136,"पोषण तथ्य प्रति 100 ग्राम: ऊर्जा 400 किलोकैलोरी, वसा 15 ग्राम, कार्बोहाइड्रेट 60 ग्राम, प्रोटीन 8 ग्राम, नमक 0.5 ग्राम",hi,Nutritional Fact Label,nutrition_table
+137,Piec w 180°C przez 25 minut,pl,Usage Instructions,preparation_guide
+138,بعد الفتح، يحفظ في الثلاجة ويستهلك خلال 3 أيام,ar,Storage Instructions,storage_guidance
+139,"1,5 L",es,Net Quantity of Contents,weight_volume
+140,Non-GMO Project Verified,en,Certifications,certification_mark
+141,Lavazza Caffè Espresso,it,Product Name and Identity,brand_product
+142,www.verkade.nl,nl,Emails or Website URL,contact_info
+143,Certifié Vegan,fr,Certifications,certification_mark
+144,info@unilever.co.uk,en,Emails or Website URL,contact_info
+145,जैविक प्रमाणित,hi,Certifications,certification_mark
+146,Масса нетто 500г,ru,Net Quantity of Contents,weight_volume
+147,Frische vom Bauernhof,de,Marketing Claims,promotional_text
+148,"İçerir: Süt, Soya, Buğday, Yumurta",tr,Allergy Labeling,allergen_warning
+149,含有亚硫酸盐,zh,Allergy Labeling,allergen_warning
+150,750ml e,en,Net Quantity of Contents,weight_volume
+151,Calcium contributes to normal bone maintenance,en,Nutritional and Health Claims,health_claim
+152,CONTIENE: PESCADO,es,Allergy Labeling,allergen_warning
+153,Prodotto in uno stabilimento che utilizza SESAMO,it,Allergy Labeling,allergen_warning
+154,تاريخ الانتهاء: 12/2026,ar,Sell-By / Best-Before / Expiry Dates,expiry_date
+155,USE BY: 01/2027,en,Sell-By / Best-Before / Expiry Dates,expiry_date
+156,Microonde 90 secondi alla massima potenza,it,Usage Instructions,preparation_guide
+157,250 мл,ru,Net Quantity of Contents,weight_volume
+158,鉄分強化,ja,Nutritional and Health Claims,health_claim
+159,Conservar alejado de la luz solar directa,es,Storage Instructions,storage_guidance
+160,www.edeka.de,de,Emails or Website URL,contact_info
+161,À CONSOMMER DE PRÉFÉRENCE AVANT FIN: 06/2026,fr,Sell-By / Best-Before / Expiry Dates,expiry_date
+162,Chocapic Cereales con Chocolate,es,Product Name and Identity,brand_product
+163,समाप्ति: 06/2027,hi,Sell-By / Best-Before / Expiry Dates,expiry_date
+164,Koosjer,nl,Certifications,certification_mark
+165,"Per serving (30g): Calories 120, Total Fat 3g, Saturated Fat 1g, Trans Fat 0g, Cholesterol 0mg, Sodium 150mg, Total Carbohydrate 22g, Dietary Fiber 2g, Total Sugars 10g, Protein 2g",en,Nutritional Fact Label,nutrition_table
+166,نستله نسكافيه جولد,ar,Product Name and Identity,brand_product
+167,成分：水、奶粉、可可粉（3%）、植物油、改性淀粉,zh,Ingredients,ingredient_list
+168,Vegan Zertifiziert,de,Certifications,certification_mark
+169,Tenere al fresco a 0-4°C,it,Storage Instructions,storage_guidance
+170,Fait avec de Vrais Fruits,fr,Marketing Claims,promotional_text
+171,Bei 180°C 25 Minuten backen,de,Usage Instructions,preparation_guide
+172,100%天然成分,ja,Marketing Claims,promotional_text
+173,Pode conter MOSTARDA,pt,Allergy Labeling,allergen_warning
+174,储存在阴凉干燥处,zh,Storage Instructions,storage_guidance
+175,"शामिल है: दूध, सोया, गेहूं, अंडा",hi,Allergy Labeling,allergen_warning
+176,समाप्ति: 10/2027,hi,Sell-By / Best-Before / Expiry Dates,expiry_date
+177,Non congelare. Tenere al fresco.,it,Storage Instructions,storage_guidance
+178,含有成分：乳、大豆、小麦、卵,ja,Allergy Labeling,allergen_warning
+179,HACCP Gecertificeerd,nl,Certifications,certification_mark
+180,高纤维,zh,Nutritional and Health Claims,health_claim
+181,"INGREDIENTI: Acqua, Concentrato di pomodoro, Sale, Spezie",it,Ingredients,ingredient_list
+182,मूंगफली और ड्राई फ्रूट्स के अंश हो सकते हैं,hi,Allergy Labeling,allergen_warning
+183,Qualità Premium,it,Marketing Claims,promotional_text
+184,製造：ネスレ日本株式会社、兵庫県神戸市中央区御幸通7-1-15,ja,Manufacturer Name and Address,manufacturer_info
+185,Ne pas congeler. Conserver au frais.,fr,Storage Instructions,storage_guidance
+186,熱い油で3-4分揚げる,ja,Usage Instructions,preparation_guide
+187,Yapay Renk ve Aroma İçermez,tr,Marketing Claims,promotional_text
+188,ハラール認証,ja,Certifications,certification_mark
+189,ISO 22000,nl,Certifications,certification_mark
+190,"원재료명: 밀가루, 설탕, 팜유, 소금, 팽창제(E500, E503), 유화제(대두 레시틴 E322)",ko,Ingredients,ingredient_list
+191,"Bewaren op een koele, droge plaats",nl,Storage Instructions,storage_guidance
+192,Microwave on HIGH for 90 seconds,en,Usage Instructions,preparation_guide
+193,1.5 L,en,Net Quantity of Contents,weight_volume
+194,賞味期限：2026年5月,ja,Sell-By / Best-Before / Expiry Dates,expiry_date
+195,Ohne künstliche Farb- und Aromastoffe,de,Marketing Claims,promotional_text
+196,直射日光を避けて保存,ja,Storage Instructions,storage_guidance
+197,Годен до: 12/2026,ru,Sell-By / Best-Before / Expiry Dates,expiry_date
+198,Halal Gecertificeerd,nl,Certifications,certification_mark
+199,레인포레스트 얼라이언스 인증,ko,Certifications,certification_mark
+200,"Informação Nutricional por 100g: Energia 1680kJ/400kcal, Lípidos 15g (dos quais saturados 7g), Hidratos de carbono 60g (açúcares 25g), Proteínas 8g, Sal 0,5g",pt,Nutritional Fact Label,nutrition_table
+201,Vegan Society Certified,en,Certifications,certification_mark
+202,Geproduceerd in een fabriek die SESAM verwerkt,nl,Allergy Labeling,allergen_warning
+203,雨林联盟认证,zh,Certifications,certification_mark
+204,CONTÉM: PEIXE,pt,Allergy Labeling,allergen_warning
+205,Certificato Vegano,it,Certifications,certification_mark
+206,visitez-nous: marque.fr,fr,Emails or Website URL,contact_info
+207,Eti Burçak Bisküvi,tr,Product Name and Identity,brand_product
+208,减钠,zh,Nutritional and Health Claims,health_claim
+209,净含量 500克,zh,Net Quantity of Contents,weight_volume
+210,"INGREDIËNTEN: Water, Tomatenpuree, Zout, Kruiden",nl,Ingredients,ingredient_list
+211,مصدر لفيتامين د,ar,Nutritional and Health Claims,health_claim
+212,معتمد من تحالف الغابات المطيرة,ar,Certifications,certification_mark
+213,ब्रिटानिया गुड डे बिस्कुट,hi,Product Name and Identity,brand_product
+214,净重 300克,zh,Net Quantity of Contents,weight_volume
+215,Micro-ondas 90 segundos em potência máxima,pt,Usage Instructions,preparation_guide
+216,뜨거운 기름에 3-4분 튀기기,ko,Usage Instructions,preparation_guide
+217,Commerce Équitable,fr,Certifications,certification_mark
+218,1.5升,zh,Net Quantity of Contents,weight_volume
+219,"İmalatçı: Pınar Süt Mamulleri, İzmir",tr,Manufacturer Name and Address,manufacturer_info
+220,Kosher,es,Certifications,certification_mark
+221,"INGREDIENTS: Pasteurized MILK, Salt, Microbial rennet, Lactic acid cultures",en,Ingredients,ingredient_list
+222,자연스럽게 맛있는,ko,Marketing Claims,promotional_text
+223,"Once opened, refrigerate and consume within 3 days",en,Storage Instructions,storage_guidance
+224,Añadir a 200ml de agua hirviendo y remover,es,Usage Instructions,preparation_guide
+225,Хранить при температуре 0-4°C,ru,Storage Instructions,storage_guidance
+226,يحتوي على: حليب، بيض، صويا، جلوتين، مستحلب (E322),ar,Ingredients,ingredient_list
+227,사용 전 잘 흔들어 주세요,ko,Usage Instructions,preparation_guide
+228,蒙牛特仑苏纯牛奶,zh,Product Name and Identity,brand_product
+229,उपयोग की अंतिम तिथि: 08/2027,hi,Sell-By / Best-Before / Expiry Dates,expiry_date
+230,끓는 물 200ml에 넣고 저어주세요,ko,Usage Instructions,preparation_guide
+231,在处理芝麻的设施中生产,zh,Allergy Labeling,allergen_warning
+232,PESO LÍQUIDO 450g,pt,Net Quantity of Contents,weight_volume
+233,رج جيدًا قبل الاستخدام,ar,Usage Instructions,preparation_guide
+234,"Fabrikant: Verkade B.V., Zaandam",nl,Manufacturer Name and Address,manufacturer_info
+235,Fraîcheur de la Ferme,fr,Marketing Claims,promotional_text
+236,"1,5 L",nl,Net Quantity of Contents,weight_volume
+237,포함: 어류,ko,Allergy Labeling,allergen_warning
+238,Net Ağırlık 500g,tr,Net Quantity of Contents,weight_volume
+239,Premium-Qualität,de,Marketing Claims,promotional_text
+240,Contiene SOLFITI,it,Allergy Labeling,allergen_warning
+241,Certyfikat Rainforest Alliance,pl,Certifications,certification_mark
+242,开封后请冷藏,zh,Storage Instructions,storage_guidance
+243,Добавить в 200мл кипящей воды и размешать,ru,Usage Instructions,preparation_guide
+244,Chocomel Chocolademelk,nl,Product Name and Identity,brand_product
+245,"Пищевая ценность на 100г: Энергия 400ккал, Жиры 15г (насыщенные 7г), Углеводы 60г (сахара 25г), Белки 8г, Соль 0,5г",ru,Nutritional Fact Label,nutrition_table
+246,Koşer,tr,Certifications,certification_mark
+247,Comercio Justo,es,Certifications,certification_mark
+248,"İçerir: Süt, Yumurta, Soya, Gluten, Emülgatör (E322)",tr,Ingredients,ingredient_list
+249,Kühl lagern bei 0-4°C,de,Storage Instructions,storage_guidance
+250,低脂肪,zh,Nutritional and Health Claims,health_claim
+251,ISO 22000,en,Certifications,certification_mark
+252,Expertly Crafted,en,Marketing Claims,promotional_text
+253,Certificado HACCP,es,Certifications,certification_mark
+254,Beschermen tegen direct zonlicht,nl,Storage Instructions,storage_guidance
+255,伊利纯牛奶 250毫升,zh,Product Name and Identity,brand_product
+256,Galbani Mozzarella di Bufala,it,Product Name and Identity,brand_product
+257,"Gedistribueerd door: Albert Heijn B.V., Zaandam, Nederland",nl,Manufacturer Name and Address,manufacturer_info
+258,天然美味,zh,Marketing Claims,promotional_text
+259,750ml ℮,pt,Net Quantity of Contents,weight_volume
+260,BEST BEFORE END: 06/2027,en,Sell-By / Best-Before / Expiry Dates,expiry_date
+261,Alerjen Uyarısı: GLUTEN içerir,tr,Allergy Labeling,allergen_warning
+262,Lay's Classic Potato Chips,en,Product Name and Identity,brand_product
+263,Senza Coloranti e Aromi Artificiali,it,Marketing Claims,promotional_text
+264,Kan sporen bevatten van PINDA'S en NOTEN,nl,Allergy Labeling,allergen_warning
+265,유통기한: 08/2026,ko,Sell-By / Best-Before / Expiry Dates,expiry_date
+266,Calcium trägt zur Erhaltung normaler Knochen bei,de,Nutritional and Health Claims,health_claim
+267,Chronić przed bezpośrednim światłem słonecznym,pl,Storage Instructions,storage_guidance
+268,Nieuw & Verbeterd Recept!,nl,Marketing Claims,promotional_text
+269,Uiterste gebruiksdatum: 01/2027,nl,Sell-By / Best-Before / Expiry Dates,expiry_date
+270,После вскрытия хранить в холодильнике,ru,Storage Instructions,storage_guidance
+271,750ml ℮,es,Net Quantity of Contents,weight_volume
+272,MINDESTHALTBAR BIS: 02/2028,de,Sell-By / Best-Before / Expiry Dates,expiry_date
+273,يحفظ في مكان بارد وجاف,ar,Storage Instructions,storage_guidance
+274,Manter refrigerado a 0-4°C,pt,Storage Instructions,storage_guidance
+275,Bogaty w Omega-3,pl,Nutritional and Health Claims,health_claim
+276,"शामिल है: दूध, अंडा, सोया, ग्लूटेन, इमल्सीफायर (E322)",hi,Ingredients,ingredient_list
+277,خدمة العملاء@المراعي.com,ar,Emails or Website URL,contact_info
+278,有机认证,zh,Certifications,certification_mark
+279,موزع من قبل: الصافي دانون، جدة، المملكة العربية السعودية,ar,Manufacturer Name and Address,manufacturer_info
+280,Fonte di vitamina D,it,Nutritional and Health Claims,health_claim
+281,Cook at 180°C for 25 minutes,en,Usage Instructions,preparation_guide
+282,인공 색소 및 향료 무첨가,ko,Marketing Claims,promotional_text
+283,Certyfikat HACCP,pl,Certifications,certification_mark
+284,Простоквашино Молоко 3.2%,ru,Product Name and Identity,brand_product
+285,Dove Шоколад Молочный,ru,Product Name and Identity,brand_product
+286,"Bevat: Melk, Eieren, Soja, Gluten, Emulgator (E322)",nl,Ingredients,ingredient_list
+287,"Distribuído por: Pão de Açúcar, Avenida Brigadeiro Luiz Antonio, São Paulo",pt,Manufacturer Name and Address,manufacturer_info
+288,Jamón Serrano Reserva,es,Product Name and Identity,brand_product
+289,Può contenere SENAPE,it,Allergy Labeling,allergen_warning
+290,无添加糖,zh,Nutritional and Health Claims,health_claim
+291,Può contenere tracce di ARACHIDI e FRUTTA A GUSCIO,it,Allergy Labeling,allergen_warning
+292,Alérgenos: Contém GLÚTEN,pt,Allergy Labeling,allergen_warning
+293,Contains Probiotics,en,Nutritional and Health Claims,health_claim
+294,Halal-Zertifiziert,de,Certifications,certification_mark
+295,TMC: 11/2026,it,Sell-By / Best-Before / Expiry Dates,expiry_date
+296,自然なおいしさ,ja,Marketing Claims,promotional_text
+297,最佳食用日期：09/2027,zh,Sell-By / Best-Before / Expiry Dates,expiry_date
+298,Fairtrade,de,Certifications,certification_mark
+299,Conserver en dessous de 25°C,fr,Storage Instructions,storage_guidance
+300,Arricchito con ferro,it,Nutritional and Health Claims,health_claim
+301,أضف إلى 200 مل ماء مغلي وحرك,ar,Usage Instructions,preparation_guide
+302,لذيذ طبيعيًا,ar,Marketing Claims,promotional_text
+303,المكونات: دقيق القمح، سكر، زيت النخيل، ملح، عوامل انتفاخ (E500، E503),ar,Ingredients,ingredient_list
+304,www.nestle.co.jp,ja,Emails or Website URL,contact_info
+305,"Wyprodukowano dla: Lidl Polska, Janki k. Warszawy",pl,Manufacturer Name and Address,manufacturer_info
+306,Senza OGM Verificato,it,Certifications,certification_mark
+307,Nestlé Milo Chocolate Malt Drink,en,Product Name and Identity,brand_product
+308,Coca-Cola® Classic,en,Product Name and Identity,brand_product
+309,製造日：12/2026,ja,Sell-By / Best-Before / Expiry Dates,expiry_date
+310,حلال معتمد,ar,Certifications,certification_mark
+311,ठंडी और सूखी जगह में रखें,hi,Storage Instructions,storage_guidance
+312,经销商：华润万家，深圳市罗湖区宝安北路,zh,Manufacturer Name and Address,manufacturer_info
+313,Niska zawartość tłuszczu,pl,Nutritional and Health Claims,health_claim
+314,Barilla Spaghetti N°5,it,Product Name and Identity,brand_product
+315,Rijk aan Omega-3,nl,Nutritional and Health Claims,health_claim
+316,カスタマーサービス@グリコ.jp,ja,Emails or Website URL,contact_info
+317,www.brand.jp,ja,Emails or Website URL,contact_info
+318,겨자 혼입 가능성,ko,Allergy Labeling,allergen_warning
+319,Contém SULFITOS,pt,Allergy Labeling,allergen_warning
+320,Gerçek Meyvelerden Yapılmış,tr,Marketing Claims,promotional_text
+321,ALLERGÈNES: Voir ingrédients en GRAS,fr,Allergy Labeling,allergen_warning
+322,Bez sztucznych barwników i aromatów,pl,Marketing Claims,promotional_text
+323,ビタミンD供給源,ja,Nutritional and Health Claims,health_claim
+324,"Nährwerte pro 100g: Energie 1680kJ/400kcal, Fett 15g (davon gesättigte Fettsäuren 7g), Kohlenhydrate 60g (davon Zucker 25g), Eiweiß 8g, Salz 0,5g",de,Nutritional Fact Label,nutrition_table
+325,"Enthält: Milch, Eier, Soja, Gluten, Emulgator (E322)",de,Ingredients,ingredient_list
+326,www.kelloggs.com,en,Emails or Website URL,contact_info
+327,Ritter Sport Vollmilch Schokolade,de,Product Name and Identity,brand_product
+328,Rainforest Alliance Sertifikalı,tr,Certifications,certification_mark
+329,キットカット ミニ,ja,Product Name and Identity,brand_product
+330,contatto@galbani.it,it,Emails or Website URL,contact_info
+331,"1,5 L",fr,Net Quantity of Contents,weight_volume
+332,롯데 가나초콜릿,ko,Product Name and Identity,brand_product
+333,采用真实水果制作,zh,Marketing Claims,promotional_text
+334,"Industrializado por: BRF S.A., Rua Jorge Tzachel 475, Itajaí/SC",pt,Manufacturer Name and Address,manufacturer_info
+335,Füllmenge: 1 kg,de,Net Quantity of Contents,weight_volume
+336,Certifié Halal,fr,Certifications,certification_mark
+337,加入200毫升沸水并搅拌,zh,Usage Instructions,preparation_guide
+338,Na opening in de koelkast bewaren,nl,Storage Instructions,storage_guidance
+339,Winiary Budyń Waniliowy,pl,Product Name and Identity,brand_product
+340,Sin Colorantes ni Sabores Artificiales,es,Marketing Claims,promotional_text
+341,CONTIENE: PESCE,it,Allergy Labeling,allergen_warning
+342,No Artificial Colors or Flavors,en,Marketing Claims,promotional_text
+343,"Wartości odżywcze na 100g: Energia 400kcal, Tłuszcze 15g (w tym nasycone 7g), Węglowodany 60g (cukry 25g), Białko 8g, Sól 0,5g",pl,Nutritional Fact Label,nutrition_table
+344,Dodać do 200ml wrzącej wody i wymieszać,pl,Usage Instructions,preparation_guide
+345,热油炸3-4分钟至金黄,zh,Usage Instructions,preparation_guide
+346,180°C에서 25분간 굽기,ko,Usage Instructions,preparation_guide
+347,Халяль сертифицированный,ru,Certifications,certification_mark
+348,0-4°C에서 냉장 보관,ko,Storage Instructions,storage_guidance
+349,賞味期限：02/2027,ja,Sell-By / Best-Before / Expiry Dates,expiry_date
+350,Contém probióticos,pt,Nutritional and Health Claims,health_claim
+351,visita: marchio.it,it,Emails or Website URL,contact_info
+352,Mit echten Früchten hergestellt,de,Marketing Claims,promotional_text
+353,Certified Gluten-Free,en,Certifications,certification_mark
+354,Bake at 200°C for 15-20 minutes,en,Usage Instructions,preparation_guide
+355,Без искусственных красителей и ароматизаторов,ru,Marketing Claims,promotional_text
+356,Validade: 09/2026,pt,Sell-By / Best-Before / Expiry Dates,expiry_date
+357,过敏原：含有麸质,zh,Allergy Labeling,allergen_warning
+358,كادبوري شوكولاتة بالحليب,ar,Product Name and Identity,brand_product
+359,Alérgenos: Contiene GLUTEN,es,Allergy Labeling,allergen_warning
+360,250g ℮,en,Net Quantity of Contents,weight_volume
+361,Gentechnikfrei Verifiziert,de,Certifications,certification_mark
+362,"Información Nutricional por 100g: Energía 1680kJ/400kcal, Grasas 15g (de las cuales saturadas 7g), Hidratos de carbono 60g (azúcares 25g), Proteínas 8g, Sal 0,5g",es,Nutritional Fact Label,nutrition_table
+363,kontakt@marka.pl,pl,Emails or Website URL,contact_info
+364,HACCP प्रमाणित,hi,Certifications,certification_mark
+365,"Содержит: Молоко, Яйца, Сою, Глютен, Эмульгатор (E322)",ru,Ingredients,ingredient_list
+366,May contain traces of PEANUTS and TREE NUTS,en,Allergy Labeling,allergen_warning
+367,"Nutrition Facts per 100g: Energy 1680kJ/400kcal, Fat 15g (of which saturates 7g), Carbohydrate 60g (of which sugars 25g), Protein 8g, Salt 0.5g",en,Nutritional Fact Label,nutrition_table
+368,微波炉高火加热2分钟,zh,Usage Instructions,preparation_guide
+369,冷暗所で保存してください,ja,Storage Instructions,storage_guidance
+370,ALÉRGENOS: Ver ingredientes en NEGRITA,es,Allergy Labeling,allergen_warning
+371,750ml ℮,tr,Net Quantity of Contents,weight_volume
+372,Frescor da Fazenda,pt,Marketing Claims,promotional_text
+373,Certificato Rainforest Alliance,it,Certifications,certification_mark
+374,750 ml ℮,fr,Net Quantity of Contents,weight_volume
+375,Sin azúcar,es,Nutritional and Health Claims,health_claim
+376,Calidad Premium,es,Marketing Claims,promotional_text
+377,Produced in a facility that handles SESAME,en,Allergy Labeling,allergen_warning
+378,소비기한: 10/2027,ko,Sell-By / Best-Before / Expiry Dates,expiry_date
+379,Rich & Creamy Taste,en,Marketing Claims,promotional_text
+380,25°C以下で保存,ja,Storage Instructions,storage_guidance
+381,Новый улучшенный рецепт!,ru,Marketing Claims,promotional_text
+382,"INGREDIENTES: Farinha de trigo, Açúcar, Óleo de palma, Sal, Fermentos químicos (E500, E503)",pt,Ingredients,ingredient_list
+383,Najlepiej spożyć przed: 12/2027,pl,Sell-By / Best-Before / Expiry Dates,expiry_date
+384,100%天然成分,zh,Marketing Claims,promotional_text
+385,www.almarai.com,ar,Emails or Website URL,contact_info
+386,Najlepiej spożyć przed: 09/2027,pl,Sell-By / Best-Before / Expiry Dates,expiry_date
+387,使用前摇匀,zh,Usage Instructions,preparation_guide
+388,يفضل استهلاكه قبل: 10/2026,ar,Sell-By / Best-Before / Expiry Dates,expiry_date
+389,CONT. LÍQ.: 1 kg,pt,Net Quantity of Contents,weight_volume
+390,철분 강화,ko,Nutritional and Health Claims,health_claim
+391,"Contains: Milk, Soy, Wheat, Eggs",en,Allergy Labeling,allergen_warning
+392,सीधी धूप से बचाएं,hi,Storage Instructions,storage_guidance
+393,Tüketim Tarihi: 06/2027,tr,Sell-By / Best-Before / Expiry Dates,expiry_date
+394,개봉 후 냉장 보관,ko,Storage Instructions,storage_guidance
+395,एलर्जी जानकारी: ग्लूटेन शामिल है,hi,Allergy Labeling,allergen_warning
+396,可能含有花生和坚果的痕迹,zh,Allergy Labeling,allergen_warning
+397,San Pellegrino Acqua Frizzante,it,Product Name and Identity,brand_product
+398,保质期至：02/2027,zh,Sell-By / Best-Before / Expiry Dates,expiry_date
+399,250 मिली,hi,Net Quantity of Contents,weight_volume
+400,"Contains: Tomato concentrate, Water, Sugar, Salt, Acidity regulator (citric acid), Spices",en,Ingredients,ingredient_list
+401,www.danone.fr,fr,Emails or Website URL,contact_info
+402,ग्राहक सेवा@अमूल.in,hi,Emails or Website URL,contact_info
+403,www.nongshim.com,ko,Emails or Website URL,contact_info
+404,Cocinar a 180°C durante 25 minutos,es,Usage Instructions,preparation_guide
+405,ISO 22000,pl,Certifications,certification_mark
+406,電子レンジで2分間強で加熱,ja,Usage Instructions,preparation_guide
+407,Não congelar. Manter refrigerado.,pt,Storage Instructions,storage_guidance
+408,يفضل استهلاكه قبل: 03/2027,ar,Sell-By / Best-Before / Expiry Dates,expiry_date
+409,ISO 22000,ko,Certifications,certification_mark
+410,Wholesome Goodness,en,Marketing Claims,promotional_text
+411,Senza zucchero,it,Nutritional and Health Claims,health_claim
+412,Wyprodukowano w zakładzie przetwarzającym SEZAM,pl,Allergy Labeling,allergen_warning
+413,Sem OGM Verificado,pt,Certifications,certification_mark
+414,मदर डेयरी दही,hi,Product Name and Identity,brand_product
+415,Non-GMO 인증,ko,Certifications,certification_mark
+416,할랄 인증,ko,Certifications,certification_mark
+417,اطبخ على 180 درجة مئوية لمدة 25 دقيقة,ar,Usage Instructions,preparation_guide
+418,El calcio contribuye al mantenimiento normal de los huesos,es,Nutritional and Health Claims,health_claim
+419,Enrichi en fer,fr,Nutritional and Health Claims,health_claim
+420,Ingredientes 100% Naturales,es,Marketing Claims,promotional_text
+421,"INGRÉDIENTS: Eau, Concentré de tomate, Sel, Épices, Correcteur d'acidité (acide citrique)",fr,Ingredients,ingredient_list
+422,ISO 22000,tr,Certifications,certification_mark
+423,ISO 22000,hi,Certifications,certification_mark
+424,www.nestle.de,de,Emails or Website URL,contact_info
+425,कैल्शियम सामान्य हड्डियों के रखरखाव में योगदान देता है,hi,Nutritional and Health Claims,health_claim
+426,発売元：江崎グリコ株式会社、大阪市西淀川区歌島4-6-5,ja,Manufacturer Name and Address,manufacturer_info
+427,Store away from direct sunlight,en,Storage Instructions,storage_guidance
+428,"Wyprodukowane przez: Mlekovita Spółdzielnia, 18-200 Wysokie Mazowieckie",pl,Manufacturer Name and Address,manufacturer_info
+429,"Bevat: Melk, Soja, Tarwe, Eieren",nl,Allergy Labeling,allergen_warning
+430,Contains SULPHITES,en,Allergy Labeling,allergen_warning
+431,service.client@marque.fr,fr,Emails or Website URL,contact_info
+432,Reduzierter Natriumgehalt,de,Nutritional and Health Claims,health_claim
+433,निष्पक्ष व्यापार प्रमाणित,hi,Certifications,certification_mark
+434,アレルゲン：グルテン含有,ja,Allergy Labeling,allergen_warning
+435,含有益生菌,zh,Nutritional and Health Claims,health_claim
+436,"INGREDIENTES: Harina de trigo, Azúcar, Aceite de palma, Sal, Gasificantes (E500, E503)",es,Ingredients,ingredient_list
+437,Faible en matières grasses,fr,Nutritional and Health Claims,health_claim
+438,Qualidade Premium,pt,Marketing Claims,promotional_text
+439,Wedel Czekolada Mleczna,pl,Product Name and Identity,brand_product
+440,NET 454g (1 lb),en,Net Quantity of Contents,weight_volume
+441,Ricco di Omega-3,it,Nutritional and Health Claims,health_claim
+442,Nestlé MOÇA Leite Condensado,pt,Product Name and Identity,brand_product
+443,ISO 22000,de,Certifications,certification_mark
+444,Podgrzewać w mikrofalówce 2 minuty na maksymalnej mocy,pl,Usage Instructions,preparation_guide
+445,"Contiene: Latte scremato in polvere, Uova, Emulsionante (lecitina di soia E322)",it,Ingredients,ingredient_list
+446,"Produziert von Nestlé Deutschland AG, Lyoner Straße 23, 60528 Frankfurt",de,Manufacturer Name and Address,manufacturer_info
+447,समृद्ध और मलाईदार स्वाद,hi,Marketing Claims,promotional_text
+448,FSC® Certified,en,Certifications,certification_mark
+449,含まれるもの：魚,ja,Allergy Labeling,allergen_warning
+450,"Valeurs Nutritives pour 100g: Énergie 1680kJ/400kcal, Matières grasses 15g (dont acides gras saturés 7g), Glucides 60g (dont sucres 25g), Protéines 8g, Sel 0,5g",fr,Nutritional Fact Label,nutrition_table
+451,Torku Çikolata,tr,Product Name and Identity,brand_product
+452,250 ml e,en,Net Quantity of Contents,weight_volume
+453,Agitare bene prima dell'uso,it,Usage Instructions,preparation_guide
+454,NET WT 500g,en,Net Quantity of Contents,weight_volume
+455,富含Omega-3,zh,Nutritional and Health Claims,health_claim
+456,Naturellement Délicieux,fr,Marketing Claims,promotional_text
+457,YER FISTIĞI ve KABUKLU MEYVELERİN izlerini içerebilir,tr,Allergy Labeling,allergen_warning
+458,"Hergestellt in einem Betrieb, der SESAM verarbeitet",de,Allergy Labeling,allergen_warning
+459,开封后冷藏并在3天内食用完毕,zh,Storage Instructions,storage_guidance
+460,200mlの熱湯に加えてかき混ぜる,ja,Usage Instructions,preparation_guide
+461,전자레인지 고출력 2분 가열,ko,Usage Instructions,preparation_guide
+462,Rijke & Romige Smaak,nl,Marketing Claims,promotional_text
+463,www.mlekovita.com.pl,pl,Emails or Website URL,contact_info
+464,Bogaty i kremowy smak,pl,Marketing Claims,promotional_text
+465,Barilla Penne Rigate Pasta,en,Product Name and Identity,brand_product
+466,kontakt@marke.de,de,Emails or Website URL,contact_info
+467,Conserver dans un endroit frais et sec,fr,Storage Instructions,storage_guidance
+468,Fuente de Vitamina D,es,Nutritional and Health Claims,health_claim
+469,优质品质,zh,Marketing Claims,promotional_text
+470,"2,5 litros",es,Net Quantity of Contents,weight_volume
+471,250 ml e,es,Net Quantity of Contents,weight_volume
+472,Fin: 02/2027,fr,Sell-By / Best-Before / Expiry Dates,expiry_date
+473,No Added Sugar,en,Nutritional and Health Claims,health_claim
+474,Na opening in de koelkast bewaren en binnen 3 dagen consumeren,nl,Storage Instructions,storage_guidance
+475,EU 유기농 인증,ko,Certifications,certification_mark
+476,www.barilla.it,it,Emails or Website URL,contact_info
+477,Frescura de Granja,es,Marketing Claims,promotional_text
+478,Сертифицировано HACCP,ru,Certifications,certification_mark
+479,पारले जी बिस्कुट,hi,Product Name and Identity,brand_product
+480,"СОСТАВ: Вода, Томатная паста, Соль, Специи",ru,Ingredients,ingredient_list
+481,CONSUMIR DE PREFERÊNCIA ANTES DE: 07/2026,pt,Sell-By / Best-Before / Expiry Dates,expiry_date
+482,原料：大米（80%）、玉米、维生素E、铁、烟酸,zh,Ingredients,ingredient_list
+483,"Содержит: Молоко, Сою, Пшеницу, Яйца",ru,Allergy Labeling,allergen_warning
+484,"Üretici: Ülker Bisküvi Sanayi A.Ş., Organize Sanayi Bölgesi, İstanbul",tr,Manufacturer Name and Address,manufacturer_info
+485,"판매원: 롯데제과, 서울특별시 영등포구 양평로 128",ko,Manufacturer Name and Address,manufacturer_info
+486,内容量 500g,ja,Net Quantity of Contents,weight_volume
+487,Contiene probiotici,it,Nutritional and Health Claims,health_claim
+488,营养成分表（每100克）：能量1680千焦/400千卡，脂肪15克（饱和脂肪7克），碳水化合物60克（糖25克），蛋白质8克，钠200毫克,zh,Nutritional Fact Label,nutrition_table
+489,Kann SENF enthalten,de,Allergy Labeling,allergen_warning
+490,300 Gramm ℮,de,Net Quantity of Contents,weight_volume
+491,ZAWIERA: RYBY,pl,Allergy Labeling,allergen_warning
+492,Nouvelle Recette Améliorée!,fr,Marketing Claims,promotional_text
+493,"Contiene: Leche desnatada en polvo, Huevo, Jarabe de glucosa, Soja",es,Ingredients,ingredient_list
+494,저지방,ko,Nutritional and Health Claims,health_claim
+495,"İÇİNDEKİLER: Buğday unu, Şeker, Palm yağı, Tuz, Kabartıcılar (E500, E503)",tr,Ingredients,ingredient_list
+496,besuchen Sie: marke.de,de,Emails or Website URL,contact_info
+497,Coca-Cola® Clásica,es,Product Name and Identity,brand_product
+498,직사광선을 피하여 보관,ko,Storage Instructions,storage_guidance
+499,Перед употреблением хорошо взболтать,ru,Usage Instructions,preparation_guide
+500,www.nestle.es,es,Emails or Website URL,contact_info
+501,"Producido por Nestlé España, Plaza Carlos Trías Bertrán 7, Madrid",es,Manufacturer Name and Address,manufacturer_info
+502,Biologico UE,it,Certifications,certification_mark
+503,"Per porzione: Calorie 120, Grassi 3g, Carboidrati 22g, Proteine 2g",it,Nutritional Fact Label,nutrition_table
+504,Douwe Egberts Koffie,nl,Product Name and Identity,brand_product
+505,Keep refrigerated at 0-4°C,en,Storage Instructions,storage_guidance
+506,100% natürliche Zutaten,de,Marketing Claims,promotional_text
+507,शामिल है: मछली,hi,Allergy Labeling,allergen_warning
+508,ISO 22000,zh,Certifications,certification_mark
+509,からしが混入する可能性あり,ja,Allergy Labeling,allergen_warning
+510,Премиум качество,ru,Marketing Claims,promotional_text
+511,"Distribütör: Migros Ticaret A.Ş., Ataköy, İstanbul",tr,Manufacturer Name and Address,manufacturer_info
+512,Producido en instalaciones que manipulan SÉSAMO,es,Allergy Labeling,allergen_warning
+513,0-4°C पर फ्रिज में रखें,hi,Storage Instructions,storage_guidance
+514,製造日：06/2026,ja,Sell-By / Best-Before / Expiry Dates,expiry_date
+515,500g ℮,zh,Net Quantity of Contents,weight_volume
+516,Micro-ondes 90 secondes à puissance maximale,fr,Usage Instructions,preparation_guide
+517,Enthält Probiotika,de,Nutritional and Health Claims,health_claim
+518,750ml ℮,pl,Net Quantity of Contents,weight_volume
+519,오메가-3 풍부,ko,Nutritional and Health Claims,health_claim
+520,Doğal Lezzet,tr,Marketing Claims,promotional_text
+521,200ml kaynar suya ekleyin ve karıştırın,tr,Usage Instructions,preparation_guide
+522,Hoog vezelgehalte,nl,Nutritional and Health Claims,health_claim
+523,Snickers Chocolate Bar,en,Product Name and Identity,brand_product
+524,USDA Organic,en,Certifications,certification_mark
+525,Bio certifié,fr,Certifications,certification_mark
+526,contact@merk.nl,nl,Emails or Website URL,contact_info
+527,www.meiji.co.jp,ja,Emails or Website URL,contact_info
+528,Non-GMO सत्यापित,hi,Certifications,certification_mark
+529,Certified B Corporation,en,Certifications,certification_mark
+530,"INGREDIENTI: Farina di grano, Zucchero, Olio di palma, Sale, Agenti lievitanti (E500, E503)",it,Ingredients,ingredient_list
+531,犹太洁食认证,zh,Certifications,certification_mark
+532,Bron van vitamine D,nl,Nutritional and Health Claims,health_claim
+533,Kosher,en,Certifications,certification_mark
+534,EU Organic,en,Certifications,certification_mark
+535,微波炉高火90秒,zh,Usage Instructions,preparation_guide
+536,Hoher Ballaststoffgehalt,de,Nutritional and Health Claims,health_claim
+537,農場直送の新鮮さ,ja,Marketing Claims,promotional_text
+538,ALLERGENI: Vedere ingredienti in GRASSETTO,it,Allergy Labeling,allergen_warning
+539,无糖,zh,Nutritional and Health Claims,health_claim
+540,開封後は冷蔵保存,ja,Storage Instructions,storage_guidance
+541,電子レンジ強で90秒,ja,Usage Instructions,preparation_guide
+542,HACCP Sertifikalı,tr,Certifications,certification_mark
+543,منتج بواسطة: نادك، الرياض، المملكة العربية السعودية,ar,Manufacturer Name and Address,manufacturer_info
+544,समाप्ति: 07/2027,hi,Sell-By / Best-Before / Expiry Dates,expiry_date
+545,"Produzido por Danone Brasil, Estrada dos Bandeirantes 14.300, Rio de Janeiro",pt,Manufacturer Name and Address,manufacturer_info
+546,Verkade Biscuits Digestive,nl,Product Name and Identity,brand_product
+547,正味 300g,ja,Net Quantity of Contents,weight_volume
+548,Commercio Equo,it,Certifications,certification_mark
+549,人工着色料・香料不使用,ja,Marketing Claims,promotional_text
+550,250 ml e,pt,Net Quantity of Contents,weight_volume
+551,아황산염 함유,ko,Allergy Labeling,allergen_warning
+552,"Une fois ouvert, à conserver au réfrigérateur et à consommer dans les 3 jours",fr,Storage Instructions,storage_guidance
+553,Ten minste houdbaar tot: 04/2027,nl,Sell-By / Best-Before / Expiry Dates,expiry_date
+554,Mikrowelle 90 Sekunden bei höchster Stufe,de,Usage Instructions,preparation_guide
+555,Certificado Halal,pt,Certifications,certification_mark
+556,2 Minuten in der Mikrowelle bei höchster Stufe erhitzen,de,Usage Instructions,preparation_guide
+557,Senza zuccheri aggiunti,it,Nutritional and Health Claims,health_claim
+558,www.danone.ru,ru,Emails or Website URL,contact_info
+559,Refrigerate after opening,en,Storage Instructions,storage_guidance
+560,Kellogg's® Corn Flakes Original,en,Product Name and Identity,brand_product
+561,Energy: 450kcal | Fat: 20g | Carbs: 50g | Protein: 10g | Sodium: 300mg,en,Nutritional Fact Label,nutrition_table
+562,维生素D来源,zh,Nutritional and Health Claims,health_claim
+563,0-4°C'de buzdolabında saklayın,tr,Storage Instructions,storage_guidance
+564,Contains Live Cultures,en,Nutritional and Health Claims,health_claim
+565,식이섬유 풍부,ko,Nutritional and Health Claims,health_claim
+566,750мл ℮,ru,Net Quantity of Contents,weight_volume
+567,개봉 후 냉장 보관하여 3일 이내 섭취,ko,Storage Instructions,storage_guidance
+568,250 ml e,it,Net Quantity of Contents,weight_volume
+569,Годен до: 07/2027,ru,Sell-By / Best-Before / Expiry Dates,expiry_date
+570,180°Cで25分間焼く,ja,Usage Instructions,preparation_guide
+571,NET WT 1 kg,en,Net Quantity of Contents,weight_volume
+572,Laag vet,nl,Nutritional and Health Claims,health_claim
+573,Net İçerik: 1 kg,tr,Net Quantity of Contents,weight_volume
+574,Ten minste houdbaar tot: 08/2026,nl,Sell-By / Best-Before / Expiry Dates,expiry_date
+575,MINDESTHALTBAR BIS: 12/2026,de,Sell-By / Best-Before / Expiry Dates,expiry_date
+576,"INGREDIENTES: Agua, Tomate (25%), Sal, Especias, Acidulante (ácido cítrico)",es,Ingredients,ingredient_list
+577,Активия Йогурт Натуральный,ru,Product Name and Identity,brand_product
+578,CONTEÚDO LÍQUIDO 500g,pt,Net Quantity of Contents,weight_volume
+579,contacto@marcaespañola.com,es,Emails or Website URL,contact_info
+580,Riche en fibres,fr,Nutritional and Health Claims,health_claim
+581,访问: brand.com,zh,Emails or Website URL,contact_info
+582,保质期至：10/2027,zh,Sell-By / Best-Before / Expiry Dates,expiry_date
+583,Ajouter à 200ml d'eau bouillante et mélanger,fr,Usage Instructions,preparation_guide
+584,EU有機認証,ja,Certifications,certification_mark
+585,تجارة عادلة معتمدة,ar,Certifications,certification_mark
+586,Microondas a máxima potencia 90 segundos,es,Usage Instructions,preparation_guide
+587,문의@삼양.com,ko,Emails or Website URL,contact_info
+588,Niet-GGO Geverifieerd,nl,Certifications,certification_mark
+589,1.5 लीटर,hi,Net Quantity of Contents,weight_volume
+590,Ferrero Rocher Cioccolatini,it,Product Name and Identity,brand_product
+591,Aquecer por 2 minutos no micro-ondas em potência máxima,pt,Usage Instructions,preparation_guide
+592,"Manufactured for Tesco Stores Ltd., Welwyn Garden City, AL7 1GA, UK",en,Manufacturer Name and Address,manufacturer_info
+593,公平贸易认证,zh,Certifications,certification_mark
+594,"1,5 л",ru,Net Quantity of Contents,weight_volume
+595,CONTAINS: FISH,en,Allergy Labeling,allergen_warning
+596,Masa netto 500g,pl,Net Quantity of Contents,weight_volume
+597,Cozinhar a 180°C por 25 minutos,pt,Usage Instructions,preparation_guide
+598,معتمد خالٍ من الكائنات المعدلة وراثيًا,ar,Certifications,certification_mark
+599,उपयोग की अंतिम तिथि: 06/2027,hi,Sell-By / Best-Before / Expiry Dates,expiry_date
+600,Boil for 10 minutes before serving,en,Usage Instructions,preparation_guide
+601,Tymbark Sok Pomarańczowy,pl,Product Name and Identity,brand_product
+602,Uiterste gebruiksdatum: 09/2026,nl,Sell-By / Best-Before / Expiry Dates,expiry_date
+603,Goût Riche et Crémeux,fr,Marketing Claims,promotional_text
+604,"Распространитель: Вимм-Билль-Данн, Москва",ru,Manufacturer Name and Address,manufacturer_info
+605,生产商：伊利集团，中国内蒙古呼和浩特市金川开发区,zh,Manufacturer Name and Address,manufacturer_info
+606,Zweryfikowane bez GMO,pl,Certifications,certification_mark
+607,"1,5 L",pt,Net Quantity of Contents,weight_volume
+608,Contient des SULFITES,fr,Allergy Labeling,allergen_warning
+609,Кошер,ru,Certifications,certification_mark
+610,250 ml,nl,Net Quantity of Contents,weight_volume
+611,娃哈哈营养快线,zh,Product Name and Identity,brand_product
+612,Cont. Net. 200g,fr,Net Quantity of Contents,weight_volume
+613,Kasher,fr,Certifications,certification_mark
+614,Naturally Delicious,en,Marketing Claims,promotional_text
+615,À CONSOMMER DE PRÉFÉRENCE AVANT FIN: 12/2026,fr,Sell-By / Best-Before / Expiry Dates,expiry_date
+616,MHD: 05/2027,de,Sell-By / Best-Before / Expiry Dates,expiry_date
+617,Kalsiyum normal kemiklerin korunmasına katkıda bulunur,tr,Nutritional and Health Claims,health_claim
+618,Heat for 2 minutes in microwave on HIGH,en,Usage Instructions,preparation_guide
+619,Przechowywać w chłodnym i suchym miejscu,pl,Storage Instructions,storage_guidance
+620,Knorr Gemüsebrühe,de,Product Name and Identity,brand_product
+621,땅콩과 견과류 미량 함유 가능성,ko,Allergy Labeling,allergen_warning
+622,प्राकृतिक रूप से स्वादिष्ट,hi,Marketing Claims,promotional_text
+623,"Contém: Leite, Soja, Trigo, Ovos",pt,Allergy Labeling,allergen_warning
+624,MINDESTHALTBAR BIS: 04/2027,de,Sell-By / Best-Before / Expiry Dates,expiry_date
+625,"Par portion: Calories 120, Lipides 3g, Glucides 22g, Protéines 2g",fr,Nutritional Fact Label,nutrition_table
+626,Certificado Ecológico UE,es,Certifications,certification_mark
+627,カルシウムは骨の正常な維持に貢献,ja,Nutritional and Health Claims,health_claim
+628,"Besin Değerleri 100g'da: Enerji 400kcal, Yağ 15g (doymuş yağ 7g), Karbonhidrat 60g (şekerler 25g), Protein 8g, Tuz 0,5g",tr,Nutritional Fact Label,nutrition_table
+629,يحفظ في الثلاجة بعد الفتح,ar,Storage Instructions,storage_guidance
+630,配料：小麦粉、糖、棕榈油、盐、膨松剂（碳酸氢钠E500）、乳化剂（大豆卵磷脂E322）,zh,Ingredients,ingredient_list
+631,RSPO Certified Sustainable Palm Oil,en,Certifications,certification_mark
+632,Cad: 09/2026,es,Sell-By / Best-Before / Expiry Dates,expiry_date
+633,冷凍しないでください。冷蔵保存。,ja,Storage Instructions,storage_guidance
+634,Conservar en lugar fresco y seco,es,Storage Instructions,storage_guidance
+635,Enthält SULFITE,de,Allergy Labeling,allergen_warning
+636,Waga netto: 1 kg,pl,Net Quantity of Contents,weight_volume
+637,Président Beurre Doux,fr,Product Name and Identity,brand_product
+638,Premium Kwaliteit,nl,Marketing Claims,promotional_text
+639,칼슘은 정상적인 뼈 유지에 기여,ko,Nutritional and Health Claims,health_claim
+640,Reich & cremiger Geschmack,de,Marketing Claims,promotional_text
+641,अमूल ताज़ा दूध,hi,Product Name and Identity,brand_product
+642,"원료: 쌀(80%), 옥수수, 비타민E, 철분, 나이아신",ko,Ingredients,ingredient_list
+643,Calcium draagt bij tot het behoud van normale botten,nl,Nutritional and Health Claims,health_claim
+644,"सामग्री: पानी, टमाटर, नमक, मसाले",hi,Ingredients,ingredient_list
+645,ISO 22000,ru,Certifications,certification_mark
+646,"Je Portion: Kalorien 120, Fett 3g, Kohlenhydrate 22g, Eiweiß 2g",de,Nutritional Fact Label,nutrition_table
+647,清真认证,zh,Certifications,certification_mark
+648,Rainforest Alliance Certified™,en,Certifications,certification_mark
+649,亜硫酸塩含有,ja,Allergy Labeling,allergen_warning
+650,उपयोग से पहले अच्छी तरह हिलाएं,hi,Usage Instructions,preparation_guide
+651,उपयोग की अंतिम तिथि: 02/2028,hi,Sell-By / Best-Before / Expiry Dates,expiry_date
+652,レインフォレスト・アライアンス認証,ja,Certifications,certification_mark
+653,يحفظ بعيدًا عن أشعة الشمس المباشرة,ar,Storage Instructions,storage_guidance
+654,Do not freeze. Keep chilled.,en,Storage Instructions,storage_guidance
+655,코셔 인증,ko,Certifications,certification_mark
+656,Rainforest Alliance Gecertificeerd,nl,Certifications,certification_mark
+657,栄養成分表示（100gあたり）：エネルギー400kcal、脂質15g（飽和脂肪酸7g）、炭水化物60g（糖質25g）、たんぱく質8g、食塩相当量0.5g,ja,Nutritional Fact Label,nutrition_table
+658,Nach dem Öffnen im Kühlschrank aufbewahren,de,Storage Instructions,storage_guidance
+659,Ülker Çikolatalı Gofret,tr,Product Name and Identity,brand_product
+660,Sodio ridotto,it,Nutritional and Health Claims,health_claim
+661,HACCP-Zertifiziert,de,Certifications,certification_mark
+662,Cuire à 180°C pendant 25 minutes,fr,Usage Instructions,preparation_guide
+663,Tüketim Tarihi: 11/2026,tr,Sell-By / Best-Before / Expiry Dates,expiry_date
+664,全新改良配方！,zh,Marketing Claims,promotional_text
+665,Füllmenge 500g,de,Net Quantity of Contents,weight_volume
+666,Unter 25°C lagern,de,Storage Instructions,storage_guidance
+667,Fatto con Frutta Vera,it,Marketing Claims,promotional_text
+668,Naturalmente Delizioso,it,Marketing Claims,promotional_text
+669,16.9 FL OZ (500mL),en,Net Quantity of Contents,weight_volume
+670,オメガ3豊富,ja,Nutritional and Health Claims,health_claim
+671,Chauffer 2 minutes au micro-ondes à puissance maximale,fr,Usage Instructions,preparation_guide
+672,الكالسيوم يساهم في الحفاظ على عظام طبيعية,ar,Nutritional and Health Claims,health_claim
+673,Certificado HACCP,pt,Certifications,certification_mark
+674,يفضل استهلاكه قبل: 04/2026,ar,Sell-By / Best-Before / Expiry Dates,expiry_date
+675,Agua Mineral Natural Evian,es,Product Name and Identity,brand_product
+676,Refrigerar después de abrir,es,Storage Instructions,storage_guidance
+677,Produzido em instalações que manipulam SÉSAMO,pt,Allergy Labeling,allergen_warning
+678,Przed użyciem dobrze wstrząsnąć,pl,Usage Instructions,preparation_guide
+679,旺旺雪饼,zh,Product Name and Identity,brand_product
+680,750 मिली ℮,hi,Net Quantity of Contents,weight_volume
+681,Nicht einfrieren. Kühl lagern.,de,Storage Instructions,storage_guidance
+682,¡Nueva Receta Mejorada!,es,Marketing Claims,promotional_text
+683,原材料：小麦粉、砂糖、パーム油、食塩、膨張剤（E500、E503）、乳化剤（大豆由来E322）,ja,Ingredients,ingredient_list
+684,製造日：10/2027,ja,Sell-By / Best-Before / Expiry Dates,expiry_date
+685,Refrigerar após abrir,pt,Storage Instructions,storage_guidance
+686,माइक्रोवेव में उच्च शक्ति पर 2 मिनट गर्म करें,hi,Usage Instructions,preparation_guide
+687,Alto teor de fibras,pt,Nutritional and Health Claims,health_claim
+688,Natuurlijk Heerlijk,nl,Marketing Claims,promotional_text
+689,Son Kullanma Tarihi: 03/2027,tr,Sell-By / Best-Before / Expiry Dates,expiry_date
+690,Высокое содержание клетчатки,ru,Nutritional and Health Claims,health_claim
+691,CADUCIDAD: 11/2026,es,Sell-By / Best-Before / Expiry Dates,expiry_date
+692,Orgânico UE,pt,Certifications,certification_mark
+693,"ZUTATEN: Wasser, Tomatenpüree, Salz, Gewürze, Säuerungsmittel (Citronensäure)",de,Ingredients,ingredient_list
+694,고객센터@롯데.kr,ko,Emails or Website URL,contact_info
+695,Danone Activia Yaourt Nature,fr,Product Name and Identity,brand_product
+696,ISO 22000,ja,Certifications,certification_mark
+697,www.yili.com,zh,Emails or Website URL,contact_info
+698,Freschezza dalla Fattoria,it,Marketing Claims,promotional_text
+699,Tüketim Tarihi: 02/2028,tr,Sell-By / Best-Before / Expiry Dates,expiry_date
+700,तिल का उपयोग करने वाली सुविधा में उत्पादित,hi,Allergy Labeling,allergen_warning
+701,"제조원: 농심, 서울특별시 동작구 여의대방로 112",ko,Manufacturer Name and Address,manufacturer_info
+702,"1,5 L",tr,Net Quantity of Contents,weight_volume
+703,CONTENIDO 450g,es,Net Quantity of Contents,weight_volume
+704,Fritar em óleo quente por 3-4 minutos,pt,Usage Instructions,preparation_guide
+705,Haribo Goldbären Fruchtgummi,de,Product Name and Identity,brand_product
+706,www.frieslandcampina.com,nl,Emails or Website URL,contact_info
+707,Biologisch Gecertificeerd,nl,Certifications,certification_mark
+708,ओमेगा-3 से भरपूर,hi,Nutritional and Health Claims,health_claim
+709,Sabor Rico e Cremoso,pt,Marketing Claims,promotional_text
+710,Scad: 09/2026,it,Sell-By / Best-Before / Expiry Dates,expiry_date
+711,اتصل بنا: brand.com,ar,Emails or Website URL,contact_info
+712,Conservar abaixo de 25°C,pt,Storage Instructions,storage_guidance
+713,Кальций способствует поддержанию нормальных костей,ru,Nutritional and Health Claims,health_claim
+714,出品商：光明乳业，上海市闵行区吴中路,zh,Manufacturer Name and Address,manufacturer_info
+715,"Vertrieb: EDEKA AG, New-York-Ring 6, 22297 Hamburg, Deutschland",de,Manufacturer Name and Address,manufacturer_info
+716,유기농 인증,ko,Certifications,certification_mark
+717,1 gallon (3.78L),en,Net Quantity of Contents,weight_volume
+718,Аллергены: Содержит ГЛЮТЕН,ru,Allergy Labeling,allergen_warning
+719,Coca-Cola Классическая,ru,Product Name and Identity,brand_product
+720,纯素认证,zh,Certifications,certification_mark
+721,"SKŁADNIKI: Woda, Koncentrat pomidorowy, Sól, Przyprawy",pl,Ingredients,ingredient_list
+722,Fabriqué dans un atelier utilisant SÉSAME,fr,Allergy Labeling,allergen_warning
+723,12 FL OZ,en,Net Quantity of Contents,weight_volume
+724,请冷藏保存于0-4°C,zh,Storage Instructions,storage_guidance
+725,СОДЕРЖИТ: РЫБУ,ru,Allergy Labeling,allergen_warning
+726,1.5L,ko,Net Quantity of Contents,weight_volume
+727,Pınar Süt Tam Yağlı,tr,Product Name and Identity,brand_product
+728,समाप्ति: 06/2027,hi,Sell-By / Best-Before / Expiry Dates,expiry_date
+729,Naturalmente Delicioso,es,Marketing Claims,promotional_text
+730,서늘하고 건조한 곳에 보관,ko,Storage Instructions,storage_guidance
+731,Kann Spuren von ERDNÜSSEN und SCHALENFRÜCHTEN enthalten,de,Allergy Labeling,allergen_warning
+732,"Manufactured by Unilever, 100 Victoria Embankment, London EC4Y 0DY, UK",en,Manufacturer Name and Address,manufacturer_info
+733,"함유성분: 물, 분유, 코코아가루, 식물성유지, 변성전분",ko,Ingredients,ingredient_list
+734,"Dystrybutor: Biedronka, ul. Julianowska 93, Poznań",pl,Manufacturer Name and Address,manufacturer_info
+735,Shake well before use,en,Usage Instructions,preparation_guide
+736,프로바이오틱스 함유,ko,Nutritional and Health Claims,health_claim
+737,Kullanmadan önce iyice çalkalayın,tr,Usage Instructions,preparation_guide
+738,Nettogewicht: 450g,de,Net Quantity of Contents,weight_volume
+739,Срок годности: 08/2027,ru,Sell-By / Best-Before / Expiry Dates,expiry_date
+740,Sugar-Free,en,Nutritional and Health Claims,health_claim
+741,Cuocere a 180°C per 25 minuti,it,Usage Instructions,preparation_guide
+742,진짜 과일로 만듦,ko,Marketing Claims,promotional_text
+743,يحتوي على: سمك,ar,Allergy Labeling,allergen_warning
+744,砂糖ゼロ,ja,Nutritional and Health Claims,health_claim
+745,Agriculture Biologique UE,fr,Certifications,certification_mark
+746,Contenuto netto 300g,it,Net Quantity of Contents,weight_volume
+747,250 ml e,de,Net Quantity of Contents,weight_volume
+748,Serin ve kuru bir yerde saklayın,tr,Storage Instructions,storage_guidance
+749,"함유 성분: 우유, 대두, 밀, 계란",ko,Allergy Labeling,allergen_warning
+750,MHD: 01/2027,de,Sell-By / Best-Before / Expiry Dates,expiry_date
+751,المراعي حليب طازج كامل الدسم,ar,Product Name and Identity,brand_product
+752,Gusto Ricco e Cremoso,it,Marketing Claims,promotional_text
+753,BEST BEFORE END: 09/2026,en,Sell-By / Best-Before / Expiry Dates,expiry_date
+754,Натурально вкусно,ru,Marketing Claims,promotional_text
+755,HACCP認証,ja,Certifications,certification_mark
+756,كوشر معتمد,ar,Certifications,certification_mark
+757,POIDS NET 500g,fr,Net Quantity of Contents,weight_volume
+758,풍부하고 크리미한 맛,ko,Marketing Claims,promotional_text
+759,"Valori Nutrizionali per 100g: Energia 1680kJ/400kcal, Grassi 15g (di cui acidi grassi saturi 7g), Carboidrati 60g (di cui zuccheri 25g), Proteine 8g, Sale 0,5g",it,Nutritional Fact Label,nutrition_table
+760,原料：水、乳製品、ココアパウダー、植物油脂、加工デンプン,ja,Ingredients,ingredient_list
+761,Богатый и кремовый вкус,ru,Marketing Claims,promotional_text
+762,カルビーポテトチップス うすしお味,ja,Product Name and Identity,brand_product
+763,www.wimm-bill-dann.ru,ru,Emails or Website URL,contact_info
+764,"Distribuido por: Grupo Bimbo, Paseo de la Reforma 483, Ciudad de México",es,Manufacturer Name and Address,manufacturer_info
+765,6 x 330ml,es,Net Quantity of Contents,weight_volume
+766,Ben & Jerry's Chunky Monkey Ice Cream,en,Product Name and Identity,brand_product
+767,浓郁香滑口感,zh,Marketing Claims,promotional_text
+768,DLC: 12/2026,fr,Sell-By / Best-Before / Expiry Dates,expiry_date
+769,Годен до: 02/2028,ru,Sell-By / Best-Before / Expiry Dates,expiry_date
+770,"INGREDIENTES: Água, Concentrado de tomate, Sal, Especiarias",pt,Ingredients,ingredient_list
+771,Source de vitamine D,fr,Nutritional and Health Claims,health_claim
+772,開封後は冷蔵保存し3日以内にお召し上がりください,ja,Storage Instructions,storage_guidance
+773,BEST BEFORE END: 10/2027,en,Sell-By / Best-Before / Expiry Dates,expiry_date
+774,Contient des probiotiques,fr,Nutritional and Health Claims,health_claim
+775,Puede contener MOSTAZA,es,Allergy Labeling,allergen_warning
+776,www.carrefour.fr,fr,Emails or Website URL,contact_info
+777,www.savola.com,ar,Emails or Website URL,contact_info
+778,Certificato Halal,it,Certifications,certification_mark
+779,kundenservice@ferrero.de,de,Emails or Website URL,contact_info
+780,内容量：1kg,ja,Net Quantity of Contents,weight_volume
+781,"1,5 L",it,Net Quantity of Contents,weight_volume
+782,Ten minste houdbaar tot: 08/2026,nl,Sell-By / Best-Before / Expiry Dates,expiry_date
+783,Premium Quality,en,Marketing Claims,promotional_text
+784,CONTIENT: POISSON,fr,Allergy Labeling,allergen_warning
+785,Yeni ve Geliştirilmiş Tarif!,tr,Marketing Claims,promotional_text
+786,グリコポッキー チョコレート,ja,Product Name and Identity,brand_product
+787,含有：牛奶、大豆、小麦、鸡蛋,zh,Allergy Labeling,allergen_warning
+788,www.ulker.com.tr,tr,Emails or Website URL,contact_info
+789,減塩,ja,Nutritional and Health Claims,health_claim
+790,净含量：1千克,zh,Net Quantity of Contents,weight_volume
+791,Przechowywać w temp. 0-4°C,pl,Storage Instructions,storage_guidance
+792,Сделано с настоящими фруктами,ru,Marketing Claims,promotional_text
+793,Conservar en frío a 0-4°C,es,Storage Instructions,storage_guidance
+794,フェアトレード認証,ja,Certifications,certification_mark
+795,Rico en Omega-3,es,Nutritional and Health Claims,health_claim
+796,contato@marca.com.br,pt,Emails or Website URL,contact_info
+797,Nutella® Pâte à Tartiner,fr,Product Name and Identity,brand_product
+798,ALLERGENS: See ingredients in BOLD,en,Allergy Labeling,allergen_warning
+799,Guaraná Antarctica,pt,Product Name and Identity,brand_product
+800,In 200ml kochendem Wasser auflösen und umrühren,de,Usage Instructions,preparation_guide
+801,Low Fat,en,Nutritional and Health Claims,health_claim
+802,Conserver à l'abri de la lumière directe du soleil,fr,Storage Instructions,storage_guidance
+803,전자레인지 고출력 90초,ko,Usage Instructions,preparation_guide
+804,Может содержать следы АРАХИСА и ОРЕХОВ,ru,Allergy Labeling,allergen_warning
+805,Source of Vitamin D,en,Nutritional and Health Claims,health_claim
+806,HACCP认证,zh,Certifications,certification_mark
+807,Itambé Leite Integral,pt,Product Name and Identity,brand_product
+808,250 ml,pl,Net Quantity of Contents,weight_volume
+809,"Contains: Water, Milk powder, Cocoa powder (3%), Vegetable oil, Modified starch",en,Ingredients,ingredient_list
+810,Bajo en grasa,es,Nutritional and Health Claims,health_claim
+811,Fairtrade Gecertificeerd,nl,Certifications,certification_mark
+812,HACCP Certified,en,Certifications,certification_mark
+813,Wapń przyczynia się do utrzymania prawidłowych kości,pl,Nutritional and Health Claims,health_claim
+814,Fry in hot oil for 3-4 minutes until golden brown,en,Usage Instructions,preparation_guide
+815,250ml,ko,Net Quantity of Contents,weight_volume
+816,100% 천연 재료,ko,Marketing Claims,promotional_text
+817,Naturalnie pyszne,pl,Marketing Claims,promotional_text
+818,"İÇİNDEKİLER: Su, Domates salçası, Tuz, Baharatlar",tr,Ingredients,ingredient_list
+819,本物の果実使用,ja,Marketing Claims,promotional_text
+820,Sem adição de açúcar,pt,Nutritional and Health Claims,health_claim
+821,Contains CELERY and LUPIN,en,Allergy Labeling,allergen_warning
+822,Helal Sertifikalı,tr,Certifications,certification_mark
+823,The Original and Still the Best,en,Marketing Claims,promotional_text
+824,Mit Eisen angereichert,de,Nutritional and Health Claims,health_claim
+825,ピーナッツとナッツ類の微量混入の可能性あり,ja,Allergy Labeling,allergen_warning
+826,Certificado Halal,es,Certifications,certification_mark
+827,Perrier Eau Pétillante,fr,Product Name and Identity,brand_product
+828,750ml ℮,it,Net Quantity of Contents,weight_volume
+829,www.nestle.com.br,pt,Emails or Website URL,contact_info
+830,"ZUTATEN: Weizenmehl, Zucker, Palmöl, Salz, Backtriebmittel (E500, E503)",de,Ingredients,ingredient_list
+831,Organik Sertifikalı,tr,Certifications,certification_mark
+832,Низкое содержание жира,ru,Nutritional and Health Claims,health_claim
+833,"Distributed by: Kraft Foods Inc., Three Lakes Drive, Northfield, IL 60093, USA",en,Manufacturer Name and Address,manufacturer_info
+834,"1,5 L",de,Net Quantity of Contents,weight_volume
+835,कम वसा,hi,Nutritional and Health Claims,health_claim
+836,非转基因认证,zh,Certifications,certification_mark
+837,Ingredienti 100% Naturali,it,Marketing Claims,promotional_text
+838,250 ml,tr,Net Quantity of Contents,weight_volume
+839,visita: marca.es,es,Emails or Website URL,contact_info
+840,Agitar bien antes de usar,es,Usage Instructions,preparation_guide
+841,消費期限：2027年12月,ja,Sell-By / Best-Before / Expiry Dates,expiry_date
+842,يفضل استهلاكه قبل: 12/2026,ar,Sell-By / Best-Before / Expiry Dates,expiry_date
+843,CADUCIDAD: 07/2026,es,Sell-By / Best-Before / Expiry Dates,expiry_date
+844,알레르기 유발 성분: 글루텐 함유,ko,Allergy Labeling,allergen_warning
+845,제조일자: 03/2027,ko,Sell-By / Best-Before / Expiry Dates,expiry_date
+846,Adicionar a 200ml de água fervente e mexer,pt,Usage Instructions,preparation_guide
+847,"Por porção: Calorias 120, Gorduras 3g, Carboidratos 22g, Proteínas 2g",pt,Nutritional Fact Label,nutrition_table
+848,明治おいしい牛乳,ja,Product Name and Identity,brand_product
+849,Doğrudan güneş ışığından uzak tutun,tr,Storage Instructions,storage_guidance
+850,750ml ℮,ko,Net Quantity of Contents,weight_volume
+851,Najlepiej spożyć przed: 09/2027,pl,Sell-By / Best-Before / Expiry Dates,expiry_date
+852,Вес нетто: 1 кг,ru,Net Quantity of Contents,weight_volume
+853,Lu Petit Beurre Biscuits,fr,Product Name and Identity,brand_product
+854,Aggiungere a 200ml di acqua bollente e mescolare,it,Usage Instructions,preparation_guide
+855,森永ミルクキャラメル,ja,Product Name and Identity,brand_product
+856,"Made by PepsiCo Inc., 700 Anderson Hill Road, Purchase, NY 10577, USA",en,Manufacturer Name and Address,manufacturer_info
+857,180°C पर 25 मिनट पकाएं,hi,Usage Instructions,preparation_guide
+858,Friggere in olio caldo per 3-4 minuti,it,Usage Instructions,preparation_guide
+859,Val: 12/2027,pt,Sell-By / Best-Before / Expiry Dates,expiry_date
+860,Сертифицировано без ГМО,ru,Certifications,certification_mark
+861,Certificato HACCP,it,Certifications,certification_mark
+862,CADUCIDAD: 04/2027,es,Sell-By / Best-Before / Expiry Dates,expiry_date
+863,Koel bewaren bij 0-4°C,nl,Storage Instructions,storage_guidance
+864,"Zawiera: Mleko, Jaja, Soję, Gluten, Emulgator (E322)",pl,Ingredients,ingredient_list
+865,소비기한: 08/2026,ko,Sell-By / Best-Before / Expiry Dates,expiry_date
+866,ISO 22000,es,Certifications,certification_mark
+867,Alto contenido en fibra,es,Nutritional and Health Claims,health_claim
+868,"수입원: 오리온, 서울특별시 용산구 청파로 396",ko,Manufacturer Name and Address,manufacturer_info
+869,Bahlsen Leibniz Butterkekse,de,Product Name and Identity,brand_product
+870,"SKŁADNIKI: Mąka pszenna, Cukier, Olej palmowy, Sól, Substancje spulchniające (E500, E503)",pl,Ingredients,ingredient_list
+871,プロバイオティクス配合,ja,Nutritional and Health Claims,health_claim
+872,请勿冷冻。保持冷藏。,zh,Storage Instructions,storage_guidance
+873,قليل الدسم,ar,Nutritional and Health Claims,health_claim
+874,"Valores por porción: Calorías 120, Grasas totales 3g, Carbohidratos 22g, Proteínas 2g",es,Nutritional Fact Label,nutrition_table
+875,"निर्माता: अमूल डेयरी, आणंद, गुजरात 388001, भारत",hi,Manufacturer Name and Address,manufacturer_info
+876,Sadia Peito de Frango Congelado,pt,Product Name and Identity,brand_product
+877,Premium Kalite,tr,Marketing Claims,promotional_text
+878,منتج في منشأة تتعامل مع السمسم,ar,Allergy Labeling,allergen_warning
+879,Без добавления сахара,ru,Nutritional and Health Claims,health_claim
+880,每份含量：热量120千卡，脂肪3克，碳水化合物22克，蛋白质2克,zh,Nutritional Fact Label,nutrition_table
+881,Po otwarciu przechowywać w lodówce,pl,Storage Instructions,storage_guidance
+882,Богат Омега-3,ru,Nutritional and Health Claims,health_claim
+883,Puede contener trazas de CACAHUETES y FRUTOS DE CÁSCARA,es,Allergy Labeling,allergen_warning
+884,Mulino Bianco Biscotti Frollini,it,Product Name and Identity,brand_product
+885,Validade: 12/2026,pt,Sell-By / Best-Before / Expiry Dates,expiry_date
+886,Data ważności: 10/2026,pl,Sell-By / Best-Before / Expiry Dates,expiry_date
+887,"Fabricado por Danone S.A., Avenida de Burgos 16-18, 28036 Madrid, España",es,Manufacturer Name and Address,manufacturer_info
+888,Rico em Ómega-3,pt,Nutritional and Health Claims,health_claim
+889,Il calcio contribuisce al mantenimento di ossa normali,it,Nutritional and Health Claims,health_claim
+890,Faire frire 3-4 minutes dans l'huile chaude,fr,Usage Instructions,preparation_guide
+891,Cad: 02/2028,es,Sell-By / Best-Before / Expiry Dates,expiry_date
+892,Wysokie zawartość błonnika,pl,Nutritional and Health Claims,health_claim
+893,Contiene probióticos,es,Nutritional and Health Claims,health_claim
+894,Certificado Vegano,es,Certifications,certification_mark
+895,Sabor Rico y Cremoso,es,Marketing Claims,promotional_text
+896,250 مل,ar,Net Quantity of Contents,weight_volume
+897,Allergy Advice: Contains GLUTEN,en,Allergy Labeling,allergen_warning
+898,Sem açúcar,pt,Nutritional and Health Claims,health_claim
+899,750 مل ℮,ar,Net Quantity of Contents,weight_volume
+900,Biologico Certificato,it,Certifications,certification_mark
+901,ENTHÄLT: FISCH,de,Allergy Labeling,allergen_warning
+902,بدون سكر مضاف,ar,Nutritional and Health Claims,health_claim
+903,ISO 22000,ar,Certifications,certification_mark
+904,Certyfikat ekologiczny,pl,Certifications,certification_mark
+905,Geen toegevoegde suikers,nl,Nutritional and Health Claims,health_claim
+906,내용량 500g,ko,Net Quantity of Contents,weight_volume
+907,Quelle von Vitamin D,de,Nutritional and Health Claims,health_claim
+908,Scad: 05/2026,it,Sell-By / Best-Before / Expiry Dates,expiry_date
+909,3-4 Minuten in heißem Öl braten,de,Usage Instructions,preparation_guide
+910,POIDS NET: 1 kg,fr,Net Quantity of Contents,weight_volume
+911,من إنتاج المراعي، ص.ب. 354، الرياض 11411، المملكة العربية السعودية,ar,Manufacturer Name and Address,manufacturer_info
+912,Fin: 08/2027,fr,Sell-By / Best-Before / Expiry Dates,expiry_date
+913,有機認証,ja,Certifications,certification_mark
+914,CONT. NETO 200g,es,Net Quantity of Contents,weight_volume
+915,Conservare lontano dalla luce solare diretta,it,Storage Instructions,storage_guidance
+916,Conservare in frigorifero dopo l'apertura,it,Storage Instructions,storage_guidance
+917,新しい改良レシピ！,ja,Marketing Claims,promotional_text
+918,Sans Colorants ni Arômes Artificiels,fr,Marketing Claims,promotional_text
+919,Ten minste houdbaar tot: 01/2028,nl,Sell-By / Best-Before / Expiry Dates,expiry_date
+920,BEST BEFORE END: 02/2028,en,Sell-By / Best-Before / Expiry Dates,expiry_date
+921,Zonder Kunstmatige Kleurstoffen of Aroma's,nl,Marketing Claims,promotional_text
+922,750ml ℮,de,Net Quantity of Contents,weight_volume
+923,빙그레 바나나맛 우유,ko,Product Name and Identity,brand_product
+924,固形量 280g,ja,Net Quantity of Contents,weight_volume
+925,Conservar por debajo de 25°C,es,Storage Instructions,storage_guidance
+926,Yüksek lif içeriği,tr,Nutritional and Health Claims,health_claim
+927,"Distribuito da: Coop Italia, Via del Lavoro 6-8, 40033 Casalecchio di Reno",it,Manufacturer Name and Address,manufacturer_info
+928,低脂肪,ja,Nutritional and Health Claims,health_claim
+929,Nowa ulepszona receptura!,pl,Marketing Claims,promotional_text
+930,Riche en Oméga-3,fr,Nutritional and Health Claims,health_claim
+931,"Произведено: ООО Данон Россия, г. Москва, ул. Якорная, д. 7",ru,Manufacturer Name and Address,manufacturer_info
+932,Oreo Original Cookies,en,Product Name and Identity,brand_product
+933,1.5 لتر,ar,Net Quantity of Contents,weight_volume
+934,Trakinas Biscoito Recheado,pt,Product Name and Identity,brand_product
+935,25°C 이하에서 보관,ko,Storage Instructions,storage_guidance
+936,प्रीमियम गुणवत्ता,hi,Marketing Claims,promotional_text
+937,"Contient: Lait écrémé en poudre, Œufs, Émulsifiant (lécithine de soja E322)",fr,Ingredients,ingredient_list
+938,atencioncliente@grupobimbo.com,es,Emails or Website URL,contact_info
+939,Certyfikat Halal,pl,Certifications,certification_mark
+940,Reduced Sodium,en,Nutritional and Health Claims,health_claim
+941,हलाल प्रमाणित,hi,Certifications,certification_mark
+942,100% Natural Ingredients,en,Marketing Claims,promotional_text
+943,农场新鲜品质,zh,Marketing Claims,promotional_text
+944,保质期至：02/2028,zh,Sell-By / Best-Before / Expiry Dates,expiry_date
+945,유통기한: 11/2027,ko,Sell-By / Best-Before / Expiry Dates,expiry_date
+946,保质期至：01/2028,zh,Sell-By / Best-Before / Expiry Dates,expiry_date
+947,"Contém: Leite em pó desnatado, Ovos, Emulsificante (lecitina de soja E322)",pt,Ingredients,ingredient_list
+948,Sem Corantes ou Sabores Artificiais,pt,Marketing Claims,promotional_text
+949,www.kraftheinz.com/contact,en,Emails or Website URL,contact_info
+950,Vor direkter Sonneneinstrahlung schützen,de,Storage Instructions,storage_guidance
+951,750ml ℮,ja,Net Quantity of Contents,weight_volume
+952,MINDESTHALTBAR BIS: 04/2027,de,Sell-By / Best-Before / Expiry Dates,expiry_date
+953,Po otwarciu przechowywać w lodówce i zużyć w ciągu 3 dni,pl,Storage Instructions,storage_guidance
+954,DA CONSUMARSI PREFERIBILMENTE ENTRO: 03/2027,it,Sell-By / Best-Before / Expiry Dates,expiry_date
+955,Halal Certified,en,Certifications,certification_mark
+956,وصفة جديدة ومحسّنة!,ar,Marketing Claims,promotional_text
+957,D Vitamini kaynağı,tr,Nutritional and Health Claims,health_claim
+958,Enriquecido com ferro,pt,Nutritional and Health Claims,health_claim
+959,Готовить при 180°C 25 минут,ru,Usage Instructions,preparation_guide
+960,농장 신선 품질,ko,Marketing Claims,promotional_text
+961,À CONSOMMER DE PRÉFÉRENCE AVANT FIN: 01/2027,fr,Sell-By / Best-Before / Expiry Dates,expiry_date
+962,CONSUMIR PREFERENTEMENTE ANTES DE: 06/2027,es,Sell-By / Best-Before / Expiry Dates,expiry_date
+963,Dilute with water in 1:3 ratio,en,Usage Instructions,preparation_guide
+964,EU-Bio-Zertifikat,de,Certifications,certification_mark
+965,"Contiene: Latte, Soia, Grano, Uova",it,Allergy Labeling,allergen_warning
+966,Reich an Omega-3,de,Nutritional and Health Claims,health_claim
+967,250ml,ja,Net Quantity of Contents,weight_volume
+968,1.5L,ja,Net Quantity of Contents,weight_volume
+969,소비기한: 11/2026,ko,Sell-By / Best-Before / Expiry Dates,expiry_date
+970,Val: 06/2027,pt,Sell-By / Best-Before / Expiry Dates,expiry_date
+971,www.motherdairy.com,hi,Emails or Website URL,contact_info
+972,Годен до: 06/2027,ru,Sell-By / Best-Before / Expiry Dates,expiry_date
+973,CADUCIDAD: 04/2027,es,Sell-By / Best-Before / Expiry Dates,expiry_date
+974,DA CONSUMARSI PREFERIBILMENTE ENTRO: 01/2027,it,Sell-By / Best-Before / Expiry Dates,expiry_date
+975,O cálcio contribui para a manutenção de ossos normais,pt,Nutritional and Health Claims,health_claim
+976,Wykonane z prawdziwych owoców,pl,Marketing Claims,promotional_text
+977,İÇERİR: BALIK,tr,Allergy Labeling,allergen_warning
+978,контакт@бренд.ru,ru,Emails or Website URL,contact_info
+979,Хранить в прохладном сухом месте,ru,Storage Instructions,storage_guidance
+980,联系我们: brand.cn,zh,Emails or Website URL,contact_info
+981,Netto inhoud: 1 kg,nl,Net Quantity of Contents,weight_volume
+982,PESO NETTO 500g,it,Net Quantity of Contents,weight_volume
+983,Fettarm,de,Nutritional and Health Claims,health_claim
+984,Nova Receita Melhorada!,pt,Marketing Claims,promotional_text
+985,750ml ℮,zh,Net Quantity of Contents,weight_volume
+986,مسببات الحساسية: يحتوي على الغلوتين,ar,Allergy Labeling,allergen_warning
+987,बिना चीनी मिलाई,hi,Nutritional and Health Claims,health_claim
+988,GDO İçermez Onaylı,tr,Certifications,certification_mark
+989,製造日：2026年7月,ja,Sell-By / Best-Before / Expiry Dates,expiry_date
+990,"Elaborado por Mercadona S.A., Avenida de la Foia, 46940 Manises, Valencia",es,Manufacturer Name and Address,manufacturer_info
+991,Feito com Frutas Reais,pt,Marketing Claims,promotional_text
+992,रेनफॉरेस्ट एलायंस प्रमाणित,hi,Certifications,certification_mark
+993,Kosher,pt,Certifications,certification_mark
+994,"СОСТАВ: Мука пшеничная, Сахар, Пальмовое масло, Соль, Разрыхлители (E500, E503)",ru,Ingredients,ingredient_list
+995,contact@nestle.com,en,Emails or Website URL,contact_info
+996,Enriquecido con hierro,es,Nutritional and Health Claims,health_claim
+997,"Una vez abierto, refrigerar y consumir en 3 días",es,Storage Instructions,storage_guidance
+998,e 400g,de,Net Quantity of Contents,weight_volume
+999,Netto gewicht 500g,nl,Net Quantity of Contents,weight_volume
+1000,"Hergestellt von Ferrero Deutschland GmbH, Hainer Weg 120, 60599 Frankfurt",de,Manufacturer Name and Address,manufacturer_info
+1001,储存于25°C以下,zh,Storage Instructions,storage_guidance
+1002,Certificado Rainforest Alliance,pt,Certifications,certification_mark
+1003,"Ingredients: Rice (80%), Corn, Vitamin E (tocopherol), Iron, Niacin",en,Ingredients,ingredient_list
+1004,Nach dem Öffnen gekühlt lagern und innerhalb von 3 Tagen verbrauchen,de,Storage Instructions,storage_guidance
+1005,Uiterste gebruiksdatum: 12/2026,nl,Sell-By / Best-Before / Expiry Dates,expiry_date
+1006,Gemaakt met Echt Fruit,nl,Marketing Claims,promotional_text
+1007,添加铁,zh,Nutritional and Health Claims,health_claim
+1008,Sodio reducido,es,Nutritional and Health Claims,health_claim
+1009,오리온 초코파이,ko,Product Name and Identity,brand_product
+1010,PESO NETTO: 1 kg,it,Net Quantity of Contents,weight_volume
+1011,프리미엄 품질,ko,Marketing Claims,promotional_text
+1012,No congelar. Mantener refrigerado.,es,Storage Instructions,storage_guidance
+1013,"Voedingswaarde per 100g: Energie 400kcal, Vetten 15g (waarvan verzadigd 7g), Koolhydraten 60g (suikers 25g), Eiwitten 8g, Zout 0,5g",nl,Nutritional Fact Label,nutrition_table
+1014,"제조자: CJ제일제당, 서울특별시 중구 동호로 330",ko,Manufacturer Name and Address,manufacturer_info
+1015,ごまを使用した設備で製造,ja,Allergy Labeling,allergen_warning
+1016,يفضل استهلاكه قبل: 10/2027,ar,Sell-By / Best-Before / Expiry Dates,expiry_date
+1017,非遺伝子組換え認証,ja,Certifications,certification_mark
+1018,食物繊維が豊富,ja,Nutritional and Health Claims,health_claim
+1019,販売者：セブン-イレブン・ジャパン、東京都千代田区二番町8-8,ja,Manufacturer Name and Address,manufacturer_info
+1020,مصنوع من فاكهة حقيقية,ar,Marketing Claims,promotional_text
+1021,Organic Whole Milk - 2% Fat,en,Product Name and Identity,brand_product
+1022,Contenance: 330 ml,fr,Net Quantity of Contents,weight_volume
+1023,Allergènes: Contient du GLUTEN,fr,Allergy Labeling,allergen_warning
+1024,Campina Magere Melk,nl,Product Name and Identity,brand_product
+1025,DA CONSUMARSI PREFERIBILMENTE ENTRO: 11/2027,it,Sell-By / Best-Before / Expiry Dates,expiry_date
+1026,Excellent Source of Protein,en,Nutritional and Health Claims,health_claim
+1027,0-4°Cで冷蔵保存してください,ja,Storage Instructions,storage_guidance
+1028,Jakość premium,pl,Marketing Claims,promotional_text
+1029,Sans sucres ajoutés,fr,Nutritional and Health Claims,health_claim
+1030,www.ferrero.it,it,Emails or Website URL,contact_info
+1031,बिना कृत्रिम रंग या स्वाद,hi,Marketing Claims,promotional_text
+1032,ALLERGENE: Siehe Zutaten in FETTDRUCK,de,Allergy Labeling,allergen_warning
+1033,最佳食用日期：2027年7月,zh,Sell-By / Best-Before / Expiry Dates,expiry_date
+1034,濃厚でクリーミーな味わい,ja,Marketing Claims,promotional_text
+1035,새롭게 개선된 레시피!,ko,Marketing Claims,promotional_text
+1036,विटामिन डी का स्रोत,hi,Nutritional and Health Claims,health_claim
+1037,Certificado Rainforest Alliance,es,Certifications,certification_mark
+1038,جودة ممتازة,ar,Marketing Claims,promotional_text
+1039,Годен до: 05/2027,ru,Sell-By / Best-Before / Expiry Dates,expiry_date
+1040,Mikrodalga fırında yüksek güçte 2 dakika ısıtın,tr,Usage Instructions,preparation_guide
+1041,May contain MUSTARD,en,Allergy Labeling,allergen_warning
+1042,Hecho con Fruta Real,es,Marketing Claims,promotional_text
+1043,180°C烤25分钟,zh,Usage Instructions,preparation_guide
+1044,سخن لمدة دقيقتين في الميكروويف على طاقة عالية,ar,Usage Instructions,preparation_guide
+1045,قد يحتوي على آثار الفول السوداني والمكسرات,ar,Allergy Labeling,allergen_warning
+1046,Zuckerfrei,de,Nutritional and Health Claims,health_claim
+1047,Add to 200ml boiling water and stir,en,Usage Instructions,preparation_guide
+1048,PESO NETO 500g,es,Net Quantity of Contents,weight_volume
+1049,Najlepiej spożyć przed: 06/2026,pl,Sell-By / Best-Before / Expiry Dates,expiry_date
+1050,Voor gebruik goed schudden,nl,Usage Instructions,preparation_guide
+1051,참깨를 다루는 시설에서 생산,ko,Allergy Labeling,allergen_warning
+1052,공정무역 인증,ko,Certifications,certification_mark
+1053,Сертифицировано Rainforest Alliance,ru,Certifications,certification_mark
+1054,Uiterste gebruiksdatum: 09/2027,nl,Sell-By / Best-Before / Expiry Dates,expiry_date
+1055,"Prodotto da Barilla G. e R. Fratelli S.p.A., Via Mantova 166, 43122 Parma",it,Manufacturer Name and Address,manufacturer_info
+1056,Keep in original packaging until use,en,Storage Instructions,storage_guidance
+1057,Verificado Sin OGM,es,Certifications,certification_mark
+1058,비건 인증,ko,Certifications,certification_mark
+1059,Mantener congelado a -18°C,es,Storage Instructions,storage_guidance
+1060,Alergeny: Zawiera GLUTEN,pl,Allergy Labeling,allergen_warning
+1061,Sans sucre,fr,Nutritional and Health Claims,health_claim
+1062,Son Kullanma Tarihi: 08/2027,tr,Sell-By / Best-Before / Expiry Dates,expiry_date
+1063,بدون ألوان أو نكهات صناعية,ar,Marketing Claims,promotional_text
+1064,Naturalmente Delicioso,pt,Marketing Claims,promotional_text
+1065,Val: 10/2027,pt,Sell-By / Best-Before / Expiry Dates,expiry_date
+1066,ALÉRGENOS: Ver ingredientes em NEGRITO,pt,Allergy Labeling,allergen_warning
+1067,Produced in a facility with CRUSTACEANS,en,Allergy Labeling,allergen_warning
+1068,340 g,es,Net Quantity of Contents,weight_volume
+1069,Sans OGM Vérifié,fr,Certifications,certification_mark
+1070,Garder au frais à 0-4°C,fr,Storage Instructions,storage_guidance
+1071,Bien agiter avant emploi,fr,Usage Instructions,preparation_guide
+1072,Teneur réduite en sodium,fr,Nutritional and Health Claims,health_claim
+1073,Sin azúcares añadidos,es,Nutritional and Health Claims,health_claim
+1074,CADUCIDAD: 12/2027,es,Sell-By / Best-Before / Expiry Dates,expiry_date
+1075,Fairtrade,en,Certifications,certification_mark
+1076,"Produit par Danone, 17 Boulevard Haussmann, 75009 Paris, France",fr,Manufacturer Name and Address,manufacturer_info
+1077,500 gramas,pt,Net Quantity of Contents,weight_volume
+1078,Added Vitamins & Minerals,en,Nutritional and Health Claims,health_claim
+1079,康师傅红烧牛肉面,zh,Product Name and Identity,brand_product
+1080,Najlepiej spożyć przed: 06/2026,pl,Sell-By / Best-Before / Expiry Dates,expiry_date
+1081,"द्वारा वितरित: मदर डेयरी, नोएडा, उत्तर प्रदेश",hi,Manufacturer Name and Address,manufacturer_info
+1082,"1회 제공량: 열량 120kcal, 지방 3g, 탄수화물 22g, 단백질 2g",ko,Nutritional Fact Label,nutrition_table
+1083,"INGREDIËNTEN: Tarwebloem, Suiker, Palmolie, Zout, Rijsmiddelen (E500, E503)",nl,Ingredients,ingredient_list
+1084,Conservare in luogo fresco e asciutto,it,Storage Instructions,storage_guidance
+1085,"Store in a cool place, preferably in refrigerator",en,Storage Instructions,storage_guidance
+1086,Neues verbessertes Rezept!,de,Marketing Claims,promotional_text
+1087,असली फल से बना,hi,Marketing Claims,promotional_text
+1088,Agitar bem antes de usar,pt,Usage Instructions,preparation_guide
+1089,नेस्ले मैगी नूडल्स,hi,Product Name and Identity,brand_product
+1090,Aceite de Oliva Virgen Extra,es,Product Name and Identity,brand_product
+1091,Le calcium contribue au maintien d'une ossature normale,fr,Nutritional and Health Claims,health_claim
+1092,Calentar durante 2 minutos en microondas a potencia máxima,es,Usage Instructions,preparation_guide
+1093,القيمة الغذائية لكل 100 جرام: طاقة 400 سعرة حرارية، دهون 15 جم، كربوهيدرات 60 جم، بروتين 8 جم، ملح 0.5 جم,ar,Nutritional Fact Label,nutrition_table
+1094,750ml ℮,nl,Net Quantity of Contents,weight_volume
+1095,Może zawierać śladowe ilości ORZECHÓW ZIEMNYCH i ORZECHÓW,pl,Allergy Labeling,allergen_warning
+1096,制造商：蒙牛乳业，内蒙古和林格尔县盛乐经济园区,zh,Manufacturer Name and Address,manufacturer_info
+1097,Certificado Orgánico,es,Certifications,certification_mark
+1098,Ohne Zuckerzusatz,de,Nutritional and Health Claims,health_claim
+1099,معتمد HACCP,ar,Certifications,certification_mark
+1100,방문: www.cj.co.kr,ko,Emails or Website URL,contact_info
+1101,Pode conter vestígios de AMENDOINS e FRUTOS DE CASCA RIJA,pt,Allergy Labeling,allergen_warning
+1102,https://product.com,en,Emails or Website URL,contact_info
+1103,Najlepiej spożyć przed: 06/2026,pl,Sell-By / Best-Before / Expiry Dates,expiry_date
+1104,يحفظ مبردًا عند 0-4 درجة مئوية,ar,Storage Instructions,storage_guidance
+1105,Rainforest Alliance Zertifiziert,de,Certifications,certification_mark
+1106,成分：米（80%）、とうもろこし、ビタミンE、鉄、ナイアシン,ja,Ingredients,ingredient_list
+1107,تاريخ الانتهاء: 01/2027,ar,Sell-By / Best-Before / Expiry Dates,expiry_date
+1108,"Conditionné par Intermarché, 24 rue Auguste Chabrières, 75015 Paris",fr,Manufacturer Name and Address,manufacturer_info
+1109,الوزن الصافي: 1 كجم,ar,Net Quantity of Contents,weight_volume
+1110,含有：鱼,zh,Allergy Labeling,allergen_warning
+1111,Conservar en un lugar fresco,es,Storage Instructions,storage_guidance
+1112,"Enthält: Milch, Soja, Weizen, Eier",de,Allergy Labeling,allergen_warning
+1113,Made with Real Fruit,en,Marketing Claims,promotional_text
+1114,Najlepiej spożyć przed: 06/2027,pl,Sell-By / Best-Before / Expiry Dates,expiry_date
+1115,Tüketim Tarihi: 01/2027,tr,Sell-By / Best-Before / Expiry Dates,expiry_date
+1116,钙有助于维持骨骼正常,zh,Nutritional and Health Claims,health_claim
+1117,"Vertrieb durch: REWE Group, Domstraße 20, 50668 Köln",de,Manufacturer Name and Address,manufacturer_info
+1118,Bauducco Panettone Tradicional,pt,Product Name and Identity,brand_product
+1119,BEVAT: VIS,nl,Allergy Labeling,allergen_warning
+1120,Vor Gebrauch gut schütteln,de,Usage Instructions,preparation_guide
+1121,Źródło witaminy D,pl,Nutritional and Health Claims,health_claim
+1122,6 x 330ml,en,Net Quantity of Contents,weight_volume
+1123,Certyfikat Fairtrade,pl,Certifications,certification_mark
+1124,New & Improved Recipe!,en,Marketing Claims,promotional_text
+1125,Allergenen: Bevat GLUTEN,nl,Allergy Labeling,allergen_warning
+1126,"Geproduceerd door: FrieslandCampina, Stationsplein 4, Amersfoort",nl,Manufacturer Name and Address,manufacturer_info
+1127,Galletas María Doradas,es,Product Name and Identity,brand_product
+1128,info@marchio.it,it,Emails or Website URL,contact_info
+1129,Nuova Ricetta Migliorata!,it,Marketing Claims,promotional_text
+1130,Keep frozen at -18°C,en,Storage Instructions,storage_guidance
+1131,शुद्ध वजन: 1 किलो,hi,Net Quantity of Contents,weight_volume
+1132,Certificado Vegano,pt,Certifications,certification_mark
+1133,Nestlé Nescafé Gold Instant Coffee,fr,Product Name and Identity,brand_product
+1134,नया और बेहतर फॉर्मूला!,hi,Marketing Claims,promotional_text
+1135,Certificado Orgânico,pt,Certifications,certification_mark
+1136,Bakken op 180°C gedurende 25 minuten,nl,Usage Instructions,preparation_guide
+1137,उच्च फाइबर,hi,Nutritional and Health Claims,health_claim
+1138,"Contiene: Leche, Soja, Trigo, Huevos",es,Allergy Labeling,allergen_warning
+1139,TMC: 05/2027,it,Sell-By / Best-Before / Expiry Dates,expiry_date
+1140,"Packed by Nestlé SA, Avenue Nestlé 55, 1800 Vevey, Switzerland",en,Manufacturer Name and Address,manufacturer_info
+1141,消費期限：09/2026,ja,Sell-By / Best-Before / Expiry Dates,expiry_date
+1142,Peut contenir de la MOUTARDE,fr,Allergy Labeling,allergen_warning
+1143,Scaldare per 2 minuti nel microonde alla massima potenza,it,Usage Instructions,preparation_guide
+1144,Alto contenuto di fibre,it,Nutritional and Health Claims,health_claim
+1145,Açtıktan sonra buzdolabında saklayın,tr,Storage Instructions,storage_guidance
+1146,コーシャ認証,ja,Certifications,certification_mark
+1147,يحتوي على: حليب، صويا، قمح، بيض,ar,Allergy Labeling,allergen_warning
+1148,"INGRÉDIENTS: Farine de blé, Sucre, Huile de palme, Sel, Poudres à lever (E500, E503)",fr,Ingredients,ingredient_list
+1149,Milka Alpenmilch Schokolade,de,Product Name and Identity,brand_product
+1150,खोलने के बाद फ्रिज में रखें,hi,Storage Instructions,storage_guidance
+1151,"सामग्री: गेहूं का आटा, चीनी, पाम तेल, नमक, फूलने वाला पदार्थ (E500, E503)",hi,Ingredients,ingredient_list
+1152,TMC: 11/2027,it,Sell-By / Best-Before / Expiry Dates,expiry_date
+1153,"Store in a cool, dry place",en,Storage Instructions,storage_guidance
+1154,Certifié Rainforest Alliance,fr,Certifications,certification_mark
+1155,www.amul.com,hi,Emails or Website URL,contact_info
+1156,SUSAM işleyen bir tesiste üretilmiştir,tr,Allergy Labeling,allergen_warning
+1157,Sgocciolato 280g,it,Net Quantity of Contents,weight_volume
+1158,عضوي معتمد,ar,Certifications,certification_mark
+1159,비타민 D 공급원,ko,Nutritional and Health Claims,health_claim
+1160,NET 340g,en,Net Quantity of Contents,weight_volume
+1161,お問い合わせ: info@brand.jp,ja,Emails or Website URL,contact_info
+1162,Беречь от прямых солнечных лучей,ru,Storage Instructions,storage_guidance
+1163,Abtropfgewicht 280g,de,Net Quantity of Contents,weight_volume
+1164,Rich in Omega-3,en,Nutritional and Health Claims,health_claim
+1165,Baixo teor de gordura,pt,Nutritional and Health Claims,health_claim
+1166,무설탕,ko,Nutritional and Health Claims,health_claim
+1167,ヴィーガン認証,ja,Certifications,certification_mark
+1168,무첨가당,ko,Nutritional and Health Claims,health_claim
